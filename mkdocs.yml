@@ -1,0 +1,39 @@
+site_name: Liga Armageddon
+site_description: Reglamento para liga narrativa de Warhammer 40,000 basada en Dominatus (11.ª edición)
+site_author: Liga Armageddon
+site_url: https://TU_USUARIO.github.io/NOMBRE_DEL_REPO/
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: red
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+extra_css:
+  - style/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Inicio: index.md
+  - 01 — Introducción: 01-introduccion.md
+  - 02 — La Campaña: 02-campaña.md
+  - 03 — Dominatus: 03-dominatus.md
+  - 04 — Construcción de listas: 04-construccion-listas.md
+  - 05 — Emparejamientos: 05-emparejamientos.md
+  - 06 — Puntuación: 06-puntuacion.md
+  - 07 — Organización: 07-organizacion.md
+  - 08 — Anexos: 08-anexos.md
