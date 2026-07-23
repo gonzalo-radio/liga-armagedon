@@ -1,6 +1,13 @@
 {% extends "base.html" %}
 
-{% block header %}
+{% block scripts %}
   {{ super() }}
-  <div class="md-version-badge">{{ config.extra.version }}</div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var badge = document.createElement('span');
+      badge.className = 'md-version-badge';
+      badge.textContent = '{{ config.extra.version }}';
+      document.querySelector('.md-header__inner').appendChild(badge);
+    });
+  </script>
 {% endblock %}
