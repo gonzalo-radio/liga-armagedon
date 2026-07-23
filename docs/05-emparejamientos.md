@@ -6,7 +6,7 @@ Los emparejamientos se realizan al inicio de cada ronda semanal.
 
 ### Criterios primarios
 
-1. **Ascendancy**: se emparejarán jugadores con Ascendancy similar siempre que sea posible.
+1. **Ascendencia**: se emparejarán jugadores con Ascendencia similar siempre que sea posible.
 2. **Partidas previas**: se evitará repetir emparejamientos de rondas anteriores.
 3. **Alianzas**: los jugadores aliados no se emparejarán entre sí a menos que no haya alternativa.
 

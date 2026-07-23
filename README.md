@@ -1,4 +1,4 @@
-# Liga Armageddon — Liga Narrativa de Warhammer 40,000
+# Liga de Warhammer 40,000 — Liga Narrativa
 
 Reglamento completo para una liga narrativa de Warhammer 40,000 basada en **Dominatus (11.ª edición)**, pensado para clubes o asociaciones.
 

@@ -8,8 +8,6 @@ Las listas deben representar la **evolución de un mismo ejército** a lo largo 
 
 Se fomenta:
 
-- **Mantener el mismo comandante** a lo largo de la campaña.
-- **Mantener el mismo destacamento**.
 - **Conservar el núcleo del ejército** de una etapa a la siguiente.
 - **Incorporar nuevas unidades** conforme aumenta la escala del conflicto.
 
@@ -17,11 +15,15 @@ Se fomenta:
 
 ### De Etapa I a Etapa II
 
-Al pasar de 500 a 1000 puntos, el jugador debe conservar al menos el **50 % de las unidades** de su lista de la Etapa I (por puntos). El comandante debe ser el mismo.
+Al pasar de 500 a 1000 puntos, el jugador debe conservar al menos el **50 % de las unidades** de su lista de la Etapa I (por puntos).
 
 ### De Etapa II a Etapa III
 
-Al pasar de 1000 a 1500 puntos, el jugador debe conservar al menos el **50 % de las unidades** de su lista de la Etapa II (por puntos). El comandante debe ser el mismo.
+Al pasar de 1000 a 1500 puntos, el jugador debe conservar al menos el **50 % de las unidades** de su lista de la Etapa II (por puntos).
+
+> **Cambio de comandante:** entre una etapa y otra, el jugador puede cambiar a su comandante. Esto representa la llegada de nuevos oficiales o el ascenso de un líder distinto a medida que el conflicto escala.
+>
+> **Cambio de destacamento:** entre una etapa y otra, el jugador puede cambiar de destacamento. Esto refleja la adaptación táctica del ejército a las nuevas exigencias del conflicto.
 
 ## Espíritu narrativo
 

@@ -1,6 +1,6 @@
-# Liga Armageddon — Reglamento de Campaña
+# Liga de Warhammer 40,000 — Reglamento de Campaña
 
-Bienvenido a la **Liga Armageddon**, un reglamento para campañas narrativas de Warhammer 40,000 basado en **Dominatus (11.ª edición)**.
+Bienvenido a la **Liga de Warhammer 40,000**, un reglamento para campañas narrativas de Warhammer 40,000 basado en **Dominatus (11.ª edición)**.
 
 ## Documentos
 

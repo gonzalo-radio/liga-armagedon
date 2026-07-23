@@ -4,7 +4,7 @@ Este directorio contiene el trasfondo narrativo de la campaña: descripciones de
 
 ## Contenido planificado
 
-- `planeta-armageddon.md` — Descripción del sistema Armageddon
+- `planeta-caleyat.md` — Descripción del sistema Caleyat
 - `facciones.md` — Facciones participantes y sus motivaciones
 - `cronologia.md` — Línea temporal de la campaña
 - `relatos.md` — Relatos de las partidas jugadas
