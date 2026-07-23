@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [0.2.0] — 2026-07-23
+
+### Added
+
+- Lore del sistema Caleyat (4 astros, historia, misterio).
+- Sección Lore en navegación MkDocs.
+
+### Fixed
+
+- Ruta de lore corregida para MkDocs.
+
 ## [0.1.0] — 2026-07-23
 
 ### Changed

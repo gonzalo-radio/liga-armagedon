@@ -1,6 +1,22 @@
 
 # Release Notes
 
+## [0.2.0] — 2026-07-23
+
+### Added
+
+- Lore del sistema Caleyat en `docs/lore/planeta-caleyat.md`:
+  - **Caleyat**: mundo industrial, factorías que operan sin tripulación, población desaparecida sin explicación.
+  - **Sanpolium**: luna helada con archivos administrativos imperiales, posibles PCE.
+  - **Canetum**: mundo oceánico con vida nativa inteligente y astillero orbital abandonado.
+  - **Cinturón de Pineda**: cementerio naval con estaciones de vigilancia mudas.
+- Sección "Lore" en la navegación del sitio MkDocs.
+- Ambientación de `01-introduccion.md` ampliada con descripciones de los cuatro astros.
+
+### Fixed
+
+- `lore/` movido a `docs/lore/` para que MkDocs sirva las páginas correctamente.
+
 ## [0.1.0] — 2026-07-23
 
 ### Changed
