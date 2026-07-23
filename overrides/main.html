@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block header %}
+  {{ super() }}
+  <div class="md-version-badge">{{ config.extra.version }}</div>
+{% endblock %}

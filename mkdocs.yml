@@ -4,6 +4,7 @@ site_author: Liga de Warhammer 40,000
 site_url: https://TU_USUARIO.github.io/NOMBRE_DEL_REPO/
 theme:
   name: material
+  custom_dir: overrides/
   palette:
     primary: black
     accent: red
@@ -15,6 +16,9 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+
+extra:
+  version: "v0.1.0"
 
 extra_css:
   - style/extra.css
@@ -37,3 +41,4 @@ nav:
   - 06 — Puntuación: 06-puntuacion.md
   - 07 — Organización: 07-organizacion.md
   - 08 — Anexos: 08-anexos.md
+  - 09 — Release Notes: 09-release-notes.md
