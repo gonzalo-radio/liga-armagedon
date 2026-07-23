@@ -20,8 +20,7 @@ Toda regla en este proyecto responde a estas preguntas:
 ├── README.md
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
-├── docs/          — Reglamento (reglas para jugadores)
-├── lore/          — Trasfondo narrativo de la campaña
+├── docs/          — Reglamento (reglas para jugadores) y lore
 ├── design/        — Notas de diseño (por qué existe cada regla)
 ├── rfcs/          — Propuestas de cambio
 ├── assets/        — Recursos gráficos

@@ -42,3 +42,6 @@ nav:
   - 07 — Organización: 07-organizacion.md
   - 08 — Anexos: 08-anexos.md
   - 09 — Release Notes: 09-release-notes.md
+  - Lore:
+    - lore/index.md
+    - lore/planeta-caleyat.md
