@@ -6,7 +6,9 @@
 
 ## Ambientación
 
-La campaña transcurre en el **sistema Caleyat**, un conjunto de mundos en el Segmentum Obscurus redescubierto tras milenios de silencio. Lo que parecía un mundo muerto alberga secretos que múltiples facciones ansían controlar.
+La campaña transcurre en el **sistema Caleyat**, un conjunto de mundos en el Segmentum Obscurus redescubierto tras milenios de silencio. En el centro del conflicto se alza **Caleyat**, un mundo industrial cuyas factorías siguen activas sin tripulación alguna. En los archivos helados de **Sanpolium** aguardan registros que podrían contener PCE perdidas. Bajo los océanos de **Canetum**, una inteligencia nativa despierta. Y entre los pecios del **Cinturón de Pineda**, una flota entera aguarda respuestas que nadie ha encontrado.
+
+El sistema fue abandonado. Nadie sabe por qué. Esa incógnita —más valiosa que cualquier recurso— es lo que realmente está en juego.
 
 ## Premisa
 
