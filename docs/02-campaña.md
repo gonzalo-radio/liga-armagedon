@@ -58,12 +58,12 @@ El Warmaster anunciará la transición con al menos una semana de antelación.
 - Se aplican además las restricciones de Boarding Actions: no se permiten vehículos, monstruos, bestias, monturas ni bicicletas. Solo infantería y servocraneos (según el mustering de cada facción en Boarding Actions).
 - Las unidades con Fuerza de Plantilla 10 se dividen en dos unidades de 5, cada una con la mitad de coste (redondeando arriba).
 
-### Terreno y compuertas
+### Terreno y compuertas [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Boarding-Actions-Battlefields)
 
 - Se usan las reglas de Boarding Actions para paredes, compuertas, medición de distancia, visibilidad y operación de compuertas.
 - Misiones simétricas con mapas predefinidos.
 
-### Estratagemas
+### Estratagemas [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Stratagems)
 
 Solo están disponibles las siguientes estratagemas de Boarding Actions:
 
@@ -73,7 +73,7 @@ Solo están disponibles las siguientes estratagemas de Boarding Actions:
 - **INSANE BRAVERY (1CP):** Fase de mando, tras fallar un test de Shock de Batalla, esa unidad lo pasa automáticamente.
 - **EXPLOSIVE CLEARANCE (1CP):** Fase de disparo, un arma con [BLAST] puede herir a modelos no visibles.
 
-### Mejoras (Enhancements)
+### Mejoras (Enhancements) [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Enhancements)
 
 Se usan las Enhancements de Boarding Actions (gratuitas). No se usan Battle Skills de Dominatus en esta fase. Hasta dos PERSONAJES pueden llevar una mejora cada uno.
 
@@ -84,17 +84,17 @@ Se usan las Enhancements de Boarding Actions (gratuitas). No se usan Battle Skil
 - **Personal Teleporter:** El portador tiene la habilidad de Profundidad.
 - **Trademark Weapon:** +1 a Fuerza y Daño en un arma de rangeda del portador.
 
-### Líderes
+### Líderes [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Leaders)
 
 Los PERSONAJES con la habilidad Líder no pueden unirse a unidades cuerpo de guardia. Son unidades independientes. Pueden conferir sus habilidades de Líder usando la estratagema BATTLEFIELD COMMAND.
 
-### Misiones
+### Misiones [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Symmetric-Missions)
 
 Se juegan las siguientes misiones simétricas de Boarding Actions, una por semana de la fase:
 
-1. **Access Junction Primus** — Primer contacto en los corredores de acceso. Ambas fuerzas convergen desde extremos opuestos del eje central del ascensor.
-2. **Power Struggle** — Disputa por los nodos de energía que alimentan los motores del ascensor.
-3. **Control Centre** — Asalto a la sala de control en la cima de la estructura.
+1. **Access Junction Primus** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Access-Junction-Primus) — Primer contacto en los corredores de acceso. Ambas fuerzas convergen desde extremos opuestos del eje central del ascensor.
+2. **Power Struggle** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Power-Struggle) — Disputa por los nodos de energía que alimentan los motores del ascensor.
+3. **Control Centre** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Control-Centre) — Asalto a la sala de control en la cima de la estructura.
 
 Cada misión detalla su propio despliegue, objetivos y condiciones de victoria según las reglas de Boarding Actions.
 
