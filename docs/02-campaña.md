@@ -104,6 +104,20 @@ Cada misión detalla su propio despliegue, objetivos y condiciones de victoria s
 - Los puntos de mejora y reliquias se otorgan según el sistema habitual de Dominatus.
 - Se recomienda acordar qué Agendas de Cruzada son apropiadas para el escenario.
 
+### Control del Ascensor
+
+Al final de la Fase I, la facción que haya acumulado más victorias en las misiones del Ascensor Orbital se considera que controla la estructura. En caso de empate, el control lo determina el Warmaster en base al desempeño narrativo durante la fase.
+
+**Justificación narrativa.** El Ascensor Orbital es la única infraestructura funcional que conecta la superficie de Caleyat con el espacio. Acceder al planeta por otros medios —descensos atmosféricos, cápsulas de desembarco, drop pods— es técnicamente posible, pero prohibitivamente peligroso y costoso. La atmósfera de Caleyat está cargada de partículas que ciegan los sensores de aproximación, las defensas antiaéreas automatizadas del sistema siguen operativas en modo fantasma, y cualquier nave que intente un descenso fuera del ascensor se expone a perder el 30% de sus efectivos antes de tocar suelo. Quien controle el ascensor controla el único conducto viable para mover ejércitos enteros entre el vacío y la superficie.
+
+**Recompensa.** Al inicio de la Fase II, el jugador que controla el ascensor tira 1d3 y aplica el beneficio correspondiente durante toda la Fase II:
+
+| 1d3 | Recompensa | Efecto |
+|---|---|---|
+| 1 | Suministros Asegurados | +1 CP al inicio de cada partida. |
+| 2 | Descenso Prioritario | Eliges la zona de despliegue o el orden de turno (tu elección) en cada partida. |
+| 3 | Armamento Orbital | Una vez por batalla, realiza un bombardeo orbital: 1d3 mortales a una unidad enemiga que no esté bajo cobertura de terreno. |
+
 ### Transición a Fase II
 
 Al finalizar la Fase I, la lista se descarta. Se rediseña una nueva lista de 1000 pts para la Fase II, conservando mínimo el 50% de las unidades de la Fase I. Al pasar a 1000 pts desaparecen las restricciones de Boarding Actions: se pueden añadir vehículos, monstruos y el resto de unidades.

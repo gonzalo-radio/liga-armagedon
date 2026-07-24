@@ -1,6 +1,13 @@
 
 # Release Notes
 
+## [0.4.1] — 2026-07-24
+
+### Added
+
+- Justificación narrativa del control del Ascensor Orbital.
+- Recompensa mecánica por control del ascensor (tirada 1d3) para la Fase II: Suministros Asegurados, Descenso Prioritario o Armamento Orbital.
+
 ## [0.4.0] — 2026-07-24
 
 ### Added

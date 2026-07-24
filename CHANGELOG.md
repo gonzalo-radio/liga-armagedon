@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [0.4.1] — 2026-07-24
+
+### Added
+
+- Justificación narrativa del control del Ascensor Orbital.
+- Recompensa mecánica (1d3) por control del ascensor en Fase II.
+
 ## [0.4.0] — 2026-07-24
 
 ### Added
