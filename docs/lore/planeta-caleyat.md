@@ -56,6 +56,8 @@ Cuando el sistema cayó en silencio, el ascensor quedó detenido a medio camino 
 
 Hoy, el Ascensor Orbital es la puerta de entrada al planeta. Controlarlo significa controlar el flujo de refuerzos y suministros. Quien lo posea tendrá la llave de Caleyat.
 
+![Ascensor Orbital](../assets/img/ascensor-orbital.webp)
+
 ---
 
 ## Sanpolium
