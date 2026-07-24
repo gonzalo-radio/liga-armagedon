@@ -10,6 +10,10 @@ La campaña transcurre en el **sistema Caleyat**, un conjunto de mundos en el Se
 
 El sistema fue abandonado. Nadie sabe por qué. Esa incógnita —más valiosa que cualquier recurso— es lo que realmente está en juego.
 
+Pero bajo la superficie de Caleyat, sepultado bajo milenios de industria y ceniza, algo ha despertado. Algo que los necrones dejaron atrás hace sesenta millones de años. Algo que no debería haber sido desenterrado.
+
+La guerra es solo el síntoma. La enfermedad es Vorago.
+
 ## Premisa
 
 La liga representa el desarrollo completo de una campaña militar:

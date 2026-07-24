@@ -1,6 +1,17 @@
 
 # Release Notes
 
+## [0.5.0] — 2026-07-24
+
+### Added
+
+- Lore de **Vorago**: fragmento de C'tan usado como arma necrona, enterrado bajo Caleyat, causante del Silencio.
+- Lore del **Magos Biologis Varn**: descubridor de Vorago, ocultó los datos en los archivos de inventario de las factorías.
+- Nuevo fragmento en "Fragmentos Recuperados": el diario de Varn identificando a Vorago como C'tan.
+- **Test de Vorago**: mecánica de influencia en el campo de batalla (−1 Ld en Fase II, −2 en Fase III). Al fallar, la unidad carga o avanza hacia el enemigo más cercano.
+- Premisa de Vorago en la introducción.
+- Nota de revelación en Fase II de la campaña.
+
 ## [0.4.1] — 2026-07-24
 
 ### Added

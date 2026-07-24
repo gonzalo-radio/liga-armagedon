@@ -34,6 +34,10 @@ Fuerzas de reconocimiento. El objetivo narrativo es asegurar posiciones y explor
 
 Llegan las fuerzas principales. La mayoría de restricciones desaparecen o se reducen.
 
+### Revelación
+
+Tras la segunda partida de la fase, los jugadores encuentran los datos del Magos Biologis Varn ocultos en los archivos de inventario de las factorías de Caleyat. Se revela la existencia de **Vorago**, un fragmento de C'tan enterrado bajo el planeta. A partir de ese momento, se aplican las reglas de influencia de Vorago (ver documento 03).
+
 ### Restricciones
 
 - Se permiten unidades con cualquier Resistencia.

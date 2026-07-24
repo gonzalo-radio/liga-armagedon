@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [0.5.0] — 2026-07-24
+
+### Added
+
+- Lore de Vorago (fragmento de C'tan, arma necrona, causa del Silencio).
+- Lore del Magos Biologis Varn y sus datos ocultos.
+- Test de Vorago: mecánica de influencia en combate (−1 Ld Fase II, −2 Fase III).
+- Nueva premisa en introducción insinuando la amenaza real.
+- Nota de revelación en Fase II de la campaña.
+
 ## [0.4.1] — 2026-07-24
 
 ### Added

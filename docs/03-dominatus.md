@@ -56,3 +56,25 @@ Se aplican las reglas estándar de Dominatus. Las alianzas entre jugadores se re
 - No se sustituye ninguna mecánica oficial salvo que sea estrictamente necesario.
 - Si una regla de Dominatus entra en conflicto con una regla de la liga, la regla de la liga prevalece.
 - Cualquier modificación a las reglas de Dominatus debe documentarse en `design/` con su justificación.
+
+## La influencia de Vorago
+
+A partir de la revelación en la Fase II (ver documento 02), la presencia del fragmento de C'tan conocido como **Vorago** afecta al campo de batalla.
+
+### Test de Vorago
+
+Al inicio de cada ronda de batalla, cada unidad que no esté en Shock de Batalla debe realizar un **test de Liderazgo**. Si lo pasa, la unidad actúa con normalidad. Si lo falla, la unidad debe inmediatamente:
+
+1. **Cargar** contra la unidad enemiga visible más cercana, si está en alcance de carga.
+2. Si no puede cargar, debe **Avanzar** hacia la unidad enemiga más cercana (visible o no).
+3. Si no hay enemigos en el campo de batalla, la unidad se mueve hacia el centro del tablero.
+
+Una unidad bajo el efecto de Vorago no puede realizar ninguna otra acción ese turno.
+
+### Modificador por fase
+
+| Fase | Modificador al Ld |
+|---|---|
+| I — Vanguardia | No aplica (Vorago aún está semi-dormido) |
+| II — Guerra Abierta | −1 al Ld (desde la revelación en adelante) |
+| III — Batalla Final | −2 al Ld |
