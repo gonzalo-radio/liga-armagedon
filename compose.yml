@@ -1,0 +1,20 @@
+services:
+  serve:
+    image: dominatus-site
+    build: .
+    container_name: dominatus-serve
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app:z
+    command: ["mkdocs", "serve", "--dev-addr=0.0.0.0:8000"]
+
+  build:
+    image: dominatus-site
+    build: .
+    container_name: dominatus-build
+    profiles:
+      - build
+    volumes:
+      - .:/app:z
+    command: ["mkdocs", "build", "--site-dir", "site"]

@@ -1,9 +1,3 @@
 # Assets — Recursos gráficos
 
-Este directorio contiene recursos gráficos del proyecto: logotipos, mapas, fichas, etc.
-
-## Contenido planificado
-
-- `logo-liga-armageddon.svg`
-- `mapa-planeta-armageddon.png`
-- `fichas-campana/` — Fichas imprimibles para los jugadores
+Este directorio contiene los PNG originales de las ilustraciones del sistema Caleyat. Las versiones WebP servidas en el sitio están en `docs/assets/img/`.

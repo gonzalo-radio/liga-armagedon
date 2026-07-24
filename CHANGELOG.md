@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [0.3.0] — 2026-07-24
+
+### Added
+
+- Ilustraciones del sistema Caleyat en WebP en cada sección del lore.
+- CSS global para imágenes.
+- `docs/assets/img/` con assets convertidos.
+
+### Fixed
+
+- `.dockerignore` ya no excluye archivos `.md` de `docs/`.
+
 ## [0.2.0] — 2026-07-23
 
 ### Added

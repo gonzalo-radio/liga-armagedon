@@ -1,6 +1,18 @@
 
 # Release Notes
 
+## [0.3.0] — 2026-07-24
+
+### Added
+
+- Ilustraciones del sistema Caleyat en formato WebP en cada sección del lore.
+- CSS global para imágenes (`max-width`, sombra, bordes redondeados, centrado).
+- `docs/assets/img/` con las 4 imágenes convertidas.
+
+### Fixed
+
+- `.dockerignore` corregido: ya no excluye los `.md` de `docs/`.
+
 ## [0.2.0] — 2026-07-23
 
 ### Added

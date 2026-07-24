@@ -44,6 +44,8 @@ No había señales de batalla. No había cadáveres. No había nada.
 
 Solo los hornos, aún calientes.
 
+![Caleyat](../assets/img/caleyat.webp)
+
 ---
 
 ## Sanpolium
@@ -77,6 +79,8 @@ Cuando el sistema cayó en silencio, Sanpolium fue sellado desde el interior. La
 
 Los primeros exploradores encontraron la luna exactamente así: fría, hermética, intacta.
 
+![Sanpolium](../assets/img/sanpolium.webp)
+
 ---
 
 ## Canetum
@@ -106,6 +110,8 @@ El océano de Canetum alberga formas de vida autóctonas: criaturas bioluminisce
 
 La presencia de vida inteligente en Canetum no está confirmada. Pero los exploradores que pasan demasiado tiempo en el océano hablan de cantos.
 
+![Canetum](../assets/img/canetum.webp)
+
 ---
 
 ## Cinturón de Pineda
@@ -128,6 +134,8 @@ Entre los asteroides, los restos de una flota imperial yacen dispersos. Fragatas
 En los límites del cinturón, tres estaciones de vigilancia imperiales permanecen operativas en modo autónomo. Sus sensores siguen escaneando el vacío, enviando señales a un receptor que nadie contesta desde hace milenios. Dos de ellas fueron ocupadas por fuerzas de reconocimiento. La tercera, la estación *Pineda-X*, dejó de responder tras el primer contacto.
 
 Nadie sabe qué encontraron allí.
+
+![Cinturón de Pineda](../assets/img/cinturon-pineda.webp)
 
 ---
 
