@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [0.4.0] — 2026-07-24
+
+### Added
+
+- Localización de Fase I: Ascensor Orbital con reglas adaptadas de Boarding Actions.
+- Lore del Ascensor Orbital en planeta-caleyat.md.
+- Tabla de localizaciones para las tres fases.
+
+### Changed
+
+- Restricciones de Fase I ampliadas con reglas de Boarding Actions.
+
 ## [0.3.0] — 2026-07-24
 
 ### Added

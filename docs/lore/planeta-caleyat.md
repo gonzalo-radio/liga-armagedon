@@ -46,6 +46,16 @@ Solo los hornos, aún calientes.
 
 ![Caleyat](../assets/img/caleyat.webp)
 
+### Ascensor Orbital
+
+El Ascensor Orbital de Caleyat es una estructura colosal de más de cinco kilómetros de altura que se alza desde la llanura de escoria hasta una estación de transferencia en órbita baja. Construido durante la época dorada del sistema, fue diseñado para mover mercancías y tropas entre la superficie y las naves en órbita sin necesidad de costosos despegues atmosféricos.
+
+La torre está formada por una superestructura de acero y cerámica, atravesada por conductos de plasma, tuberías de combustible y cables de datos gruesos como el torso de un Space Marine. En su interior, docenas de niveles albergan plataformas de carga, puestos de control, cuartos de maquinaria y baterías de generadores de emergencia.
+
+Cuando el sistema cayó en silencio, el ascensor quedó detenido a medio camino entre la superficie y el vacío. Las compuertas de seguridad se sellaron. Los sistemas de soporte vital se apagaron en algunos niveles y en otros siguen funcionando, alimentados por generadores que nadie recuerda haber encendido.
+
+Hoy, el Ascensor Orbital es la puerta de entrada al planeta. Controlarlo significa controlar el flujo de refuerzos y suministros. Quien lo posea tendrá la llave de Caleyat.
+
 ---
 
 ## Sanpolium

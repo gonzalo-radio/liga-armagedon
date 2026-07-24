@@ -1,6 +1,20 @@
 
 # Release Notes
 
+## [0.4.0] — 2026-07-24
+
+### Added
+
+- Localización de Fase I: Ascensor Orbital. Reglas adaptadas de Boarding Actions para Dominatus.
+- Descripción narrativa del Ascensor Orbital en el lore de Caleyat.
+- Tres misiones simétricas de Boarding Actions para la Fase I: Access Junction Primus, Power Struggle, Control Centre.
+- Tabla de localizaciones en el documento de campaña (Fases I, II, III).
+
+### Changed
+
+- Restricciones de Fase I: se añaden las restricciones de Boarding Actions (sin vehículos, monstruos, bestias, monturas, bicicletas).
+- Adaptación de reglas: estratagemas de BA, enhancements de BA, líderes separados.
+
 ## [0.3.0] — 2026-07-24
 
 ### Added
