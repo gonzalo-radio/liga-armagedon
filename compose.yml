@@ -18,3 +18,15 @@ services:
     volumes:
       - .:/app:z
     command: ["mkdocs", "build", "--site-dir", "site"]
+
+  warmaster:
+    image: dominatus-site
+    build: .
+    container_name: dominatus-warmaster
+    profiles:
+      - warmaster
+    ports:
+      - "8001:8000"
+    volumes:
+      - .:/app:z
+    command: ["mkdocs", "serve", "--config-file", "mkdocs.warmaster.yml", "--dev-addr=0.0.0.0:8000"]

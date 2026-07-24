@@ -1,0 +1,20 @@
+INHERIT: mkdocs.yml
+nav:
+  - Inicio: index.md
+  - 01 — Introducción: 01-introduccion.md
+  - 02 — La Campaña: 02-campaña.md
+  - 03 — Dominatus: 03-dominatus.md
+  - 04 — Construcción de listas: 04-construccion-listas.md
+  - 05 — Emparejamientos: 05-emparejamientos.md
+  - 06 — Puntuación: 06-puntuacion.md
+  - 07 — Organización: 07-organizacion.md
+  - 08 — Anexos: 08-anexos.md
+  - 09 — Release Notes: 09-release-notes.md
+  - Lore:
+    - lore/index.md
+    - lore/planeta-caleyat.md
+  - Warmaster:
+    - warmaster/index.md
+    - warmaster/vorago.md
+    - warmaster/misiones.md
+    - warmaster/planes-futuros.md

@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [0.6.0] — 2026-07-24
+
+### Added
+
+- Sección Warmaster separada (`mkdocs.warmaster.yml`, `docs/warmaster/`).
+- Contenido secreto de Vorago/Varn movido a `docs/warmaster/vorago.md`.
+- Servicio warmaster en `compose.yml` (perfil `--profile warmaster`, puerto 8001).
+
+### Changed
+
+- Versión pública limpia de contenido secreto (Vorago, Varn, Silencio).
+- Release notes y versión actualizadas a v0.6.0.
+
 ## [0.5.0] — 2026-07-24
 
 ### Added

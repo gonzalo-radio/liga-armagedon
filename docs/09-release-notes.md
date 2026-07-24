@@ -1,6 +1,24 @@
 
 # Release Notes
 
+## [0.6.0] — 2026-07-24
+
+### Added
+
+- Configuración separada para Warmaster (`mkdocs.warmaster.yml`) servida en puerto 8001 con Podman.
+- Documentación Warmaster en `docs/warmaster/`: `index.md`, `vorago.md`, `misiones.md`, `planes-futuros.md`.
+
+### Moved
+
+- Contenido secreto de Vorago, Varn y el Silencio trasladado de los documentos públicos a `docs/warmaster/vorago.md`.
+- Fragmento del diario de Varn trasladado de `planeta-caleyat.md` a `docs/warmaster/vorago.md`.
+- Nota de revelación de Fase II trasladada de `02-campaña.md` a `docs/warmaster/misiones.md`.
+
+### Removed
+
+- Párrafo de premisa de Vorago eliminado de `01-introduccion.md`.
+- Toda referencia a Vorago, Varn y el Silencio eliminada de los documentos públicos.
+
 ## [0.5.0] — 2026-07-24
 
 ### Added
