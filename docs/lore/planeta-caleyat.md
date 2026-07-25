@@ -172,3 +172,19 @@ Nadie sabe qué encontraron allí.
 > *"Las factorías de Caleyat están produciendo. No sabemos para quién. No sabemos desde cuándo. Pero están produciendo. Repito: las factorías están operativas. No hay personal. No hay supervisión. Las máquinas trabajan solas."*
 
 — Transmisión de la fuerza de reconocimiento *Martillo de la Verdad*, interrumpida.
+
+> *"Hay una estructura enterrada bajo el sector. Cápsula xeno. Firmas necronas. Algo está vivo ahí abajo."*
+
+— Data-slate dañado hallado en Hive-7 (Cuna de Engranajes). Análisis de voz atribuido al Magos Biologis Varn.
+
+> *"Los picos de violencia correlacionan con pulsos de la anomalía. El Gobernador lo sabía. Ordenó sellar los archivos de Sanpolium."*
+
+— Data-slate dañado hallado en Forja-12 (Yunque del Olvido). Atribuido a Varn.
+
+> *"En los archivos necronas de Sanpolium encontré una palabra: Vorago. 'El que devora'. Es el mismo nombre que aparece en los registros de la anomalía."*
+
+— Data-slate dañado hallado en Factorum-3 (Telar de Fantasmas). Atribuido a Varn.
+
+> *"He simulado la expansión del campo. Si la contención sigue degradándose, en cuestión de semanas toda la superficie estará en su radio de efecto."*
+
+— Data-slate dañado hallado en Refinería-9 (Sangre de Prometeo). Atribuido a Varn.

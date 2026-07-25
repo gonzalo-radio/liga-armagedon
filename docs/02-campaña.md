@@ -17,7 +17,7 @@ La duración total estimada es de **7 a 10 semanas**.
 | Fase | Localización | Reglas | Tamaño de mesa |
 |---|---|---|---|
 | I — Vanguardia | Ascensor Orbital | Boarding Actions + Dominatus (adaptado) | ~28"×48" |
-| II — Guerra Abierta | Por determinar | Dominatus estándar | 44"×60" |
+| II — Guerra Abierta | Factorías de Caleyat — Sector Manufacturero | Dominatus estándar | 44"×60" |
 | III — Batalla Final | Por determinar | Dominatus estándar | 44"×60" |
 
 ## Etapa I — Vanguardia (500 puntos)
@@ -39,6 +39,32 @@ Llegan las fuerzas principales. La mayoría de restricciones desaparecen o se re
 - Se permiten unidades con cualquier Resistencia.
 - Se permiten Personajes Épicos.
 - No se permiten Fortificaciones.
+
+### Partida 1 — La Fábrica Susurrante
+
+Las factorías de Caleyat llevan siglos operando sin supervisión. Automatizadas para un bucle eterno de producción y almacenaje, algunas siguen funcionando como el primer día. Otras, desgastadas por milenios de abandono, funcionan de forma errática: brazos robóticos que se niegan a parar, cintas transportadoras que invierten su dirección sin aviso, reactores que vibran al borde del colapso.
+
+El sector manufacturero emite señales de recogida y mantenimiento en todas las frecuencias. Nadie las contesta. Nadie ha contestado en siglos. Pero las máquinas siguen llamando.
+
+Los jugadores descienden a la superficie para investigar. Lo que encuentran son fábricas vacías que trabajan solas. Y en el vox, apenas audible entre el ruido de la maquinaria, un susurro.
+
+#### Despliegue
+
+Se usa la misión **Crucible of Battle** del pack de misiones de Dominatus. Cinco objetivos: dos en cada zona de despliegue, tres en Tierra de Nadie.
+
+#### Data-Slate de Varn
+
+Antes de desplegar, el jugador que controla el Ascensor Orbital (o el Warmaster si el control no está definido) tira 1d3 y marca uno de los tres objetivos de Tierra de Nadie como portador del **data-slate de Varn**. Coloca un marcador distintivo sobre ese objetivo.
+
+Al final de la partida, el jugador que controle ese objetivo —gane o pierda la partida— obtiene el data-slate. Si el objetivo está disputado o sin ocupar, el data-slate se pierde y ningún jugador obtiene la información.
+
+#### Revelación
+
+El Warmaster entrega al portador del data-slate un fragmento del diario del Magos Biologis Varn. El fragmento varía según el manufactorum donde se haya jugado la batalla (ver documento Warmaster).
+
+#### Beneficio
+
+El portador del data-slate empieza la siguiente partida (Fase II, Partida 2) con **+1 CP adicional** (máximo 3 CP iniciales). Los datos de Varn contienen información sobre el sector que permite planificar el despliegue con ventaja.
 
 ## Etapa III — Batalla Final (1500 puntos)
 
