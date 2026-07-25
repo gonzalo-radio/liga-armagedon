@@ -54,17 +54,11 @@ Se usa la misión **Crucible of Battle** del pack de misiones de Dominatus. Cinc
 
 #### Data-Slate de Varn
 
-Antes de desplegar, el jugador que controla el Ascensor Orbital (o el Warmaster si el control no está definido) tira 1d3 y marca uno de los tres objetivos de Tierra de Nadie como portador del **data-slate de Varn**. Coloca un marcador distintivo sobre ese objetivo.
+Antes de desplegar, el jugador que controla el Ascensor Orbital (o el Warmaster si el control no está definido) tira 1d3 y marca uno de los tres objetivos de Tierra de Nadie como portador del **data-slate**. Coloca un marcador distintivo sobre ese objetivo.
 
 Al final de la partida, el jugador que controle ese objetivo —gane o pierda la partida— obtiene el data-slate. Si el objetivo está disputado o sin ocupar, el data-slate se pierde y ningún jugador obtiene la información.
 
-#### Revelación
-
-El Warmaster entrega al portador del data-slate un fragmento del diario del Magos Biologis Varn. El fragmento varía según el manufactorum donde se haya jugado la batalla (ver documento Warmaster).
-
-#### Beneficio
-
-El portador del data-slate empieza la siguiente partida (Fase II, Partida 2) con **+1 CP adicional** (máximo 3 CP iniciales). Los datos de Varn contienen información sobre el sector que permite planificar el despliegue con ventaja.
+El portador del data-slate empieza la siguiente partida (Fase II, Partida 2) con **+1 CP adicional** (máximo 3 CP iniciales).
 
 ## Etapa III — Batalla Final (1500 puntos)
 

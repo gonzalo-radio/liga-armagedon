@@ -4,9 +4,8 @@
 
 ### Added
 
-- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate de Varn.
-- Data-slate de Varn: +1 CP en la partida siguiente.
-- Cuatro fragmentos de data-slate añadidos a planeta-caleyat.md.
+- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate especial.
+- Data-slate especial: +1 CP en la partida siguiente.
 
 ## [0.6.0] — 2026-07-24
 

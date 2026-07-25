@@ -5,10 +5,9 @@
 
 ### Added
 
-- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate de Varn (1d3 sobre objetivo de Tierra de Nadie).
-- Data-slate de Varn: +1 CP en la partida siguiente.
-- Cuatro fragmentos de data-slate de Varn añadidos a "Fragmentos Recuperados" en planeta-caleyat.md.
-- Tabla de 4 manufactorum con ambientación y pintadas en documentos Warmaster.
+- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate especial (1d3 sobre objetivo de Tierra de Nadie).
+- Data-slate especial: +1 CP en la partida siguiente.
+- Tabla de 4 manufactorum con ambientación y pintadas.
 
 ## [0.6.0] — 2026-07-24
 
