@@ -45,3 +45,23 @@ Varn murió durante el Silencio, como casi todos. Sus restos nunca fueron identi
 > *Y nosotros seguimos matando."*
 
 — Última entrada del diario de datos del Magos Biologis Varn, hallada siglos después en los archivos de inventario de las factorías de Caleyat. El informe se interrumpe abruptamente.
+
+## Test de Vorago — Reglas
+
+A partir de la revelación en la Fase II (Partida 2), la influencia de Vorago afecta al campo de batalla.
+
+Al inicio de cada ronda de batalla, cada unidad que no esté en Shock de Batalla debe realizar un **test de Liderazgo**. Si lo pasa, la unidad actúa con normalidad. Si lo falla, la unidad debe inmediatamente:
+
+1. **Cargar** contra la unidad enemiga visible más cercana, si está en alcance de carga.
+2. Si no puede cargar, debe **Avanzar** hacia la unidad enemiga más cercana (visible o no).
+3. Si no hay enemigos en el campo de batalla, la unidad se mueve hacia el centro del tablero.
+
+Una unidad bajo el efecto de Vorago no puede realizar ninguna otra acción ese turno.
+
+### Modificador por fase
+
+| Fase | Modificador al Ld |
+|---|---|
+| I — Vanguardia | No aplica (Vorago aún está semi-dormido) |
+| II — Guerra Abierta | −1 al Ld (desde la revelación en adelante) |
+| III — Batalla Final | −2 al Ld |

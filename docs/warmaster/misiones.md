@@ -16,16 +16,16 @@
 |---|---|---|---|---|
 | 1 | La Fábrica Susurrante | Dominatus estándar | Sin efectos de Vorago. **Revelación parcial:** data-slate de Varn en un objetivo de TN. Fragmento según manufactorum. |
 | 2 | Por determinar | Dominatus estándar | **Revelación:** tras esta partida, los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías. Se revela Vorago. |
-| 3 | Por determinar | Dominatus estándar | Test de Vorago activo (−1 Ld). |
-| 4 | Por determinar | Dominatus estándar | Test de Vorago activo (−1 Ld). |
+| 3 | Por determinar | Dominatus estándar | Test de Vorago activo −1 Ld (ver [`vorago.md`](vorago.md)). |
+| 4 | Por determinar | Dominatus estándar | Test de Vorago activo −1 Ld (ver [`vorago.md`](vorago.md)). |
 
 ### Fase III — Batalla Final (3 semanas)
 
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
-| 1 | Por determinar | Dominatus estándar | Test de Vorago (−2 Ld). |
-| 2 | Por determinar | Dominatus estándar | Test de Vorago (−2 Ld). |
-| 3 | Por determinar | Dominatus estándar | Test de Vorago (−2 Ld). Clímax de la campaña. |
+| 1 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). |
+| 2 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). |
+| 3 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). Clímax de la campaña. |
 
 ## Notas de emparejamiento
 

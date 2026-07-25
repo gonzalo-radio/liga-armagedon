@@ -52,7 +52,7 @@ Los jugadores descienden a la superficie para investigar. Lo que encuentran son 
 
 Se usa la misión **Crucible of Battle** del pack de misiones de Dominatus. Cinco objetivos: dos en cada zona de despliegue, tres en Tierra de Nadie.
 
-#### Data-Slate de Varn
+#### Data-slate
 
 Antes de desplegar, el jugador que controla el Ascensor Orbital (o el Warmaster si el control no está definido) tira 1d3 y marca uno de los tres objetivos de Tierra de Nadie como portador del **data-slate**. Coloca un marcador distintivo sobre ese objetivo.
 
