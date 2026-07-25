@@ -34,6 +34,11 @@ markdown_extensions:
   - toc:
       permalink: true
 
+plugins:
+  - search:
+      exclude:
+        - warmaster/*
+
 nav:
   - Inicio: index.md
   - 01 — Introducción: 01-introduccion.md

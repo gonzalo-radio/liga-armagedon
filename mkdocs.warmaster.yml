@@ -1,4 +1,6 @@
 INHERIT: mkdocs.yml
+plugins:
+  - search
 nav:
   - Inicio: index.md
   - 01 — Introducción: 01-introduccion.md
