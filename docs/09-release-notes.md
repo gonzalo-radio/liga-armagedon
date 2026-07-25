@@ -1,34 +1,22 @@
 
 # Release Notes
 
-## [0.6.0] — 2026-07-24
+## [0.7.0] — 2026-07-25
 
 ### Added
 
-- Configuración separada para Warmaster (`mkdocs.warmaster.yml`) servida en puerto 8001 con Podman.
-- Documentación Warmaster en `docs/warmaster/`: `index.md`, `vorago.md`, `misiones.md`, `planes-futuros.md`.
+- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate de Varn (1d3 sobre objetivo de Tierra de Nadie).
+- Data-slate de Varn: +1 CP en la partida siguiente.
+- Cuatro fragmentos de data-slate de Varn añadidos a "Fragmentos Recuperados" en planeta-caleyat.md.
+- Tabla de 4 manufactorum con ambientación y pintadas en documentos Warmaster.
 
-### Moved
+## [0.6.0] — 2026-07-24
 
-- Contenido secreto de Vorago, Varn y el Silencio trasladado de los documentos públicos a `docs/warmaster/vorago.md`.
-- Fragmento del diario de Varn trasladado de `planeta-caleyat.md` a `docs/warmaster/vorago.md`.
-- Nota de revelación de Fase II trasladada de `02-campaña.md` a `docs/warmaster/misiones.md`.
-
-### Removed
-
-- Párrafo de premisa de Vorago eliminado de `01-introduccion.md`.
-- Toda referencia a Vorago, Varn y el Silencio eliminada de los documentos públicos.
+- [CENSURADO]
 
 ## [0.5.0] — 2026-07-24
 
-### Added
-
-- Lore de **Vorago**: fragmento de C'tan usado como arma necrona, enterrado bajo Caleyat, causante del Silencio.
-- Lore del **Magos Biologis Varn**: descubridor de Vorago, ocultó los datos en los archivos de inventario de las factorías.
-- Nuevo fragmento en "Fragmentos Recuperados": el diario de Varn identificando a Vorago como C'tan.
-- **Test de Vorago**: mecánica de influencia en el campo de batalla (−1 Ld en Fase II, −2 en Fase III). Al fallar, la unidad carga o avanza hacia el enemigo más cercano.
-- Premisa de Vorago en la introducción.
-- Nota de revelación en Fase II de la campaña.
+- [CENSURADO]
 
 ## [0.4.1] — 2026-07-24
 

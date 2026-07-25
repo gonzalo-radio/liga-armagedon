@@ -1,27 +1,20 @@
 # CHANGELOG
 
-## [0.6.0] — 2026-07-24
+## [0.7.0] — 2026-07-25
 
 ### Added
 
-- Sección Warmaster separada (`mkdocs.warmaster.yml`, `docs/warmaster/`).
-- Contenido secreto de Vorago/Varn movido a `docs/warmaster/vorago.md`.
-- Servicio warmaster en `compose.yml` (perfil `--profile warmaster`, puerto 8001).
+- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate de Varn.
+- Data-slate de Varn: +1 CP en la partida siguiente.
+- Cuatro fragmentos de data-slate añadidos a planeta-caleyat.md.
 
-### Changed
+## [0.6.0] — 2026-07-24
 
-- Versión pública limpia de contenido secreto (Vorago, Varn, Silencio).
-- Release notes y versión actualizadas a v0.6.0.
+- [CENSURADO]
 
 ## [0.5.0] — 2026-07-24
 
-### Added
-
-- Lore de Vorago (fragmento de C'tan, arma necrona, causa del Silencio).
-- Lore del Magos Biologis Varn y sus datos ocultos.
-- Test de Vorago: mecánica de influencia en combate (−1 Ld Fase II, −2 Fase III).
-- Nueva premisa en introducción insinuando la amenaza real.
-- Nota de revelación en Fase II de la campaña.
+- [CENSURADO]
 
 ## [0.4.1] — 2026-07-24
 
