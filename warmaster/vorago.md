@@ -12,9 +12,9 @@
 
 Vorago es un fragmento de un C'tan menor, capturado y reconfigurado por los necrones durante la Guerra en el Cielo. Su propósito original era funcionar como un arma de aniquilación planetaria: lanzado sobre un mundo habitado, emitía un campo de influencia psíquica que inducía paranoia, violencia y autodestrucción en toda forma de vida consciente. Los defensores se masacraban entre sí antes de que los ejércitos necrones hubieran de pisar la superficie.
 
-El fragmento fue lanzado sobre Caleyat para eliminar a los Ancestrales que ocupaban el sistema. La operación fue un éxito. Pero antes de que los necrones pudieran recuperar el fragmento, la Gran Dormición los reclamó. Vorago quedó sepultado, su cápsula de contención enterrada bajo kilómetros de roca.
+El fragmento fue lanzado sobre Caleyat para eliminar a los Ancestrales que ocupaban el sistema. La operación fue un éxito. Pero antes de que los necrones pudieran recuperar el fragmento, la Gran Dormición los reclamó. Vorago fue encerrado en un **campo de contención teseráctico** — una jaula de realidad doblada que lo mantuvo dormido e indetectable durante sesenta millones de años.
 
-Los milenios pasaron. El Imperio colonizó Caleyat sin saber lo que yacía bajo sus factorías. Y la cápsula, lentamente, empezó a degradarse.
+Los milenios pasaron. El Imperio colonizó Caleyat sin saber lo que yacía bajo sus factorías. Durante el Redescubrimiento, las expediciones humanas perforaron la cápsula sin saberlo —taladros de minería, reactivación de líneas de producción, el simple peso de siglos de industria sobre una jaula que ya empezaba a desgastarse. El campo teseráctico se resquebrajó. Vorago empezó a filtrarse.
 
 ## El Silencio
 
@@ -65,3 +65,11 @@ Una unidad bajo el efecto de Vorago no puede realizar ninguna otra acción ese t
 | I — Vanguardia | No aplica (Vorago aún está semi-dormido) |
 | II — Guerra Abierta | −1 al Ld (desde la revelación en adelante) |
 | III — Batalla Final | −2 al Ld |
+
+### Necrones y Vorago
+
+Los necrones hacen el Test de Vorago con las mismas reglas que el resto de facciones, pero por una razón distinta. Vorago no puede afectar a los necrones psíquicamente —no tienen alma— pero el campo de contención teseráctico roto emite una interferencia electromagnética lo suficientemente potente como para inyectarse en sus protocolos de combate. El fragmento reconoce el patrón de procesamiento necron y fuerza una sobreescritura de prioridades, un eco instintivo de la esclavitud que los C'tan impusieron a sus ancestros.
+
+**En mesa:** mismas tiradas, mismos modificadores, mismo efecto. En narrativa: los necrones no enloquecen, se desprograman.
+
+El Warmaster puede leer esta justificación a los jugadores necrones en el momento de la revelación para que entiendan por qué su ejército no es inmune.
