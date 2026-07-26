@@ -13,7 +13,7 @@
 ### Fase II — Guerra Abierta (4 semanas)
 
 | Semana | Misión | Reglas | Notas |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | La Fábrica Susurrante | Dominatus estándar | Sin efectos de Vorago. **Revelación parcial:** data-slate de Varn en un objetivo de TN. Fragmento según manufactorum. |
 | 2 | Por determinar | Dominatus estándar | **Revelación:** tras esta partida, los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías. Se revela Vorago. |
 | 3 | Por determinar | Dominatus estándar | Test de Vorago activo −1 Ld (ver [`vorago.md`](vorago.md)). |
