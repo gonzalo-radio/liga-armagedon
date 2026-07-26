@@ -14,3 +14,5 @@ Bienvenido a la **Liga de Warhammer 40,000**, un reglamento para campañas narra
 | [06 — Puntuación](06-puntuacion.md) | Sistema de puntuación y desempates |
 | [07 — Organización](07-organizacion.md) | Guía para el Warmaster |
 | [08 — Anexos](08-anexos.md) | Hojas de campaña y referencias rápidas |
+| [09 — Release Notes](09-release-notes.md) | Historial de versiones del reglamento |
+| [Lore](lore/index.md) | Trasfondo narrativo del sistema Caleyat |
