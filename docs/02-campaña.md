@@ -6,11 +6,11 @@ La campaña se divide en **tres etapas**. Cada etapa representa una fase del con
 
 | Etapa | Puntos | Semanas | Descripción |
 |---|---|---|---|
-| I — Vanguardia | 500 | 2-3 | Fuerzas de reconocimiento |
-| II — Guerra Abierta | 1000 | 3-4 | Llegan las fuerzas principales |
-| III — Batalla Final | 1500 | 2-3 | La guerra alcanza su punto culminante |
+| I — Vanguardia | 500 | 3 | Fuerzas de reconocimiento |
+| II — Guerra Abierta | 1000 | 2 | Llegan las fuerzas principales |
+| III — Batalla Final | 1500 | 1 | La guerra alcanza su punto culminante |
 
-La duración total estimada es de **7 a 10 semanas**.
+La duración total estimada es de **6 semanas**. El Warmaster decide cuántas partidas de Fase I se juegan de las 3 disponibles.
 
 ### Localizaciones
 
@@ -59,6 +59,16 @@ Antes de desplegar, el jugador que controla el Ascensor Orbital (o el Warmaster 
 Al final de la partida, el jugador que controle ese objetivo —gane o pierda la partida— obtiene el data-slate. Si el objetivo está disputado o sin ocupar, el data-slate se pierde y ningún jugador obtiene la información.
 
 El portador del data-slate empieza la siguiente partida (Fase II, Partida 2) con **+1 CP adicional** (máximo 3 CP iniciales).
+
+### Partida 2 — Ecos en la Frecuencia
+
+El sector manufacturero guarda más secretos. Los jugadores se adentran en las factorías en busca de las fuentes de las transmisiones fantasma que saturan el vox. Lo que encuentren cambiará el rumbo de la campaña.
+
+#### Despliegue
+
+Se usa la misión **Sweep and Clear** del pack de misiones de Dominatus.
+
+Dispone de las reglas especiales que el Warmaster indique antes de la partida.
 
 ## Etapa III — Batalla Final (1500 puntos)
 
@@ -110,7 +120,7 @@ Los PERSONAJES con la habilidad Líder no pueden unirse a unidades cuerpo de gua
 
 ### Misiones [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Symmetric-Missions)
 
-Se juegan las siguientes misiones simétricas de Boarding Actions, una por semana de la fase:
+Las misiones disponibles para la fase son:
 
 1. **Access Junction Primus** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Access-Junction-Primus) — Primer contacto en los corredores de acceso. Ambas fuerzas convergen desde extremos opuestos del eje central del ascensor.
 2. **Power Struggle** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Power-Struggle) — Disputa por los nodos de energía que alimentan los motores del ascensor.

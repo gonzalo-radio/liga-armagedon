@@ -10,22 +10,18 @@
 | 2 | Power Struggle | Boarding Actions | Sin efectos de Vorago. |
 | 3 | Control Centre | Boarding Actions | Sin efectos de Vorago. Determina el control del Ascensor Orbital. |
 
-### Fase II — Guerra Abierta (4 semanas)
+### Fase II — Guerra Abierta (2 semanas)
 
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
 | 1 | La Fábrica Susurrante | Dominatus estándar | Sin efectos de Vorago. **Revelación parcial:** data-slate de Varn en un objetivo de TN. Fragmento según manufactorum. |
-| 2 | Por determinar | Dominatus estándar | **Revelación:** tras esta partida, los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías. Se revela Vorago. |
-| 3 | Por determinar | Dominatus estándar | Test de Vorago activo −1 Ld (ver [`vorago.md`](vorago.md)). |
-| 4 | Por determinar | Dominatus estándar | Test de Vorago activo −1 Ld (ver [`vorago.md`](vorago.md)). |
+| 2 | Por determinar | Dominatus estándar | **Revelación:** tras esta partida, los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías. Se revela Vorago. A partir de aquí se activa el Test de Vorago (ver [`vorago.md`](vorago.md)). |
 
-### Fase III — Batalla Final (3 semanas)
+### Fase III — Batalla Final (1 semana)
 
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
-| 1 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). |
-| 2 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). |
-| 3 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). Clímax de la campaña. |
+| 1 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). Clímax de la campaña. |
 
 ## Notas de emparejamiento
 

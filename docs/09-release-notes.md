@@ -1,6 +1,16 @@
 
 # Release Notes
 
+## [0.8.0] — 2026-07-26
+
+### Changed
+
+- Reestructuración del calendario: Fase I mantiene 3 misiones a elección del Warmaster, Fase II pasa a 2 partidas, Fase III a 1 partida.
+- Duración total: de 7-10 semanas a 6 semanas.
+- Fase II, Partida 2: nuevo escenario "Ecos en la Frecuencia" añadido a la campaña.
+- Tabla de misiones de Boarding Actions actualizada: "disponibles" en lugar de "una por semana".
+- Sección "Influencia planetaria" eliminada de `03-dominatus.md` y movida a Warmaster.
+
 ## [0.7.0] — 2026-07-25
 
 ### Added

@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [0.8.0] — 2026-07-26
+
+### Changed
+
+- Calendario de campaña reestructurado: Fase I (3 misiones opcionales), Fase II (2 partidas), Fase III (1 partida).
+- Duración total: 6 semanas.
+- Tabla de semanas en `02-campaña.md` actualizada.
+
+### Added
+
+- Fase II, Partida 2: "Ecos en la Frecuencia" — escenario de revelación.
+
 ## [0.7.0] — 2026-07-25
 
 ### Added
