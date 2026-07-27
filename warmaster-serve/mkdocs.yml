@@ -2,7 +2,7 @@ site_name: Liga de Warhammer 40,000 — Warmaster
 site_description: Reglamento para liga narrativa de Warhammer 40,000 basada en Dominatus (11.ª edición) — Documentación Warmaster
 site_author: Liga de Warhammer 40,000
 site_url: http://localhost:8001/
-docs_dir: .
+docs_dir: docs_src
 theme:
   name: material
   custom_dir: overrides/

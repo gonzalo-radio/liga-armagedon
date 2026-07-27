@@ -29,4 +29,4 @@ services:
       - "8001:8000"
     volumes:
       - .:/app:z
-    command: ["mkdocs", "serve", "--config-file", "mkdocs.warmaster.yml", "--dev-addr=0.0.0.0:8000"]
+    command: ["mkdocs", "serve", "--config-file", "warmaster-serve/mkdocs.yml", "--dev-addr=0.0.0.0:8000"]
