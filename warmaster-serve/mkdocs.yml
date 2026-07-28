@@ -19,7 +19,7 @@ theme:
     - search.suggest
 
 extra:
-  version: "v0.8.0 — Warmaster"
+  version: "v0.9.0 — Warmaster"
 
 extra_css:
   - style/extra.css

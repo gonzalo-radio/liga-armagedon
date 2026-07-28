@@ -46,6 +46,25 @@ Varn murió durante el Silencio, como casi todos. Sus restos nunca fueron identi
 
 — Última entrada del diario de datos del Magos Biologis Varn, hallada siglos después en los archivos de inventario de las factorías de Caleyat. El informe se interrumpe abruptamente.
 
+## El Protocolo de Resellado
+
+Varn no solo estudió a Vorago. Diseñó un mecanismo para volver a cerrar la cápsula teseráctica. Sabía que la contención se degradaría más rápido de lo que el Imperio podría reaccionar, así que programó un **protocolo de resellado** accesible desde una terminal oculta en el sector manufacturero.
+
+El protocolo funciona en dos fases:
+1. **Sincronización de frecuencia:** la terminal emite una señal que realinea los campos teserácticos. Sin ella, cualquier intento de contención es inútil.
+2. **Inyección de energía:** un pulso de energía masivo desde los reactores de las factorías, redirigido hacia la cápsula, que estabiliza el campo durante siglos.
+
+Pero Varn también registró algo más: si en lugar de resellar se invierte la polaridad del pulso, el campo teseráctico se colapsa por completo. Vorago quedaría libre.
+
+Ambos procesos requieren acceso físico a la terminal y a los paneles de control de los reactores del sector. Quien llegue primero decide.
+
+### Consecuencias narrativas
+
+- **Resellar a Vorago** — el campo se estabiliza. La amenaza inmediata desaparece. El sistema Caleyat puede ser recolonizado. Los jugadores que sellaron a Vorago son recordados como salvadores. Pero Vorago sigue ahí abajo, esperando.
+- **Liberar a Vorago** — el campo se colapsa. Vorago se libera por completo. El sistema cae en un nuevo Silencio, esta vez definitivo. Los jugadores que lo liberaron ganan un arma de poder incalculable, pero el coste es la aniquilación del sistema. Dependiendo de las facciones, pueden intentar controlarlo... o morir en el intento.
+
+Estas consecuencias se resuelven narrativamente en la Fase III o después de la campaña, según decida el Warmaster.
+
 ## Test de Vorago — Reglas
 
 A partir de la revelación en la Fase II (Partida 2), la influencia de Vorago afecta al campo de batalla.

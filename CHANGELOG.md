@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [0.9.0] — 2026-07-27
+
+### Added
+
+- Fase II, Partida 2: **La Terminal de Varn** — archivo completo de Varn, Protocolo de Resellado, elección de bando.
+- Fase III: **Breakout adaptado** — misión asimétrica Atacante/Defensor del sistema Crusade: Armageddon.
+- Sección "El Protocolo de Resellado" en `warmaster/vorago.md`.
+- Consecuencias narrativas de resellar o liberar Vorago.
+- Test de Vorago activo desde la Partida 2 de Fase II.
+
+### Changed
+
+- Partida 2 renombrada de "Ecos en la Frecuencia" a "La Terminal de Varn".
+- Localización de Fase III actualizada a "Núcleo de Contención — Sector Manufacturero".
+
 ## [0.8.0] — 2026-07-26
 
 ### Changed

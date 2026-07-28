@@ -1,6 +1,21 @@
 
 # Release Notes
 
+## [0.9.0] — 2026-07-27
+
+### Added
+
+- **Fase II, Partida 2: La Terminal de Varn.** Archivo completo de Varn, Protocolo de Resellado, elección de bando (Resellar/Liberar). Test de Vorago activo desde esta partida.
+- **Fase III: Breakout adaptado.** Misión asimétrica Atacante/Defensor del sistema Crusade: Armageddon. Defensor busca resellar, Atacante liberar.
+- Sección "El Protocolo de Resellado" en documentos Warmaster.
+- Consecuencias narrativas de la elección final en documentos Warmaster.
+
+### Changed
+
+- Partida 2 renombrada de "Ecos en la Frecuencia" a "La Terminal de Varn".
+- Tabla de localizaciones actualizada con Núcleo de Contención para Fase III.
+- Calendario Warmaster actualizado con detalles de Breakout.
+
 ## [0.8.0] — 2026-07-26
 
 ### Changed

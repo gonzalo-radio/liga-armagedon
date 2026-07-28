@@ -18,7 +18,7 @@ La duración total estimada es de **6 semanas**. El Warmaster decide cuántas pa
 |---|---|---|---|
 | I — Vanguardia | Ascensor Orbital | Boarding Actions + Dominatus (adaptado) | ~28"×48" |
 | II — Guerra Abierta | Factorías de Caleyat — Sector Manufacturero | Dominatus estándar | 44"×60" |
-| III — Batalla Final | Por determinar | Dominatus estándar | 44"×60" |
+| III — Batalla Final | Núcleo de Contención — Sector Manufacturero | Dominatus estándar (Breakout adaptado) | 44"×60" |
 
 ## Etapa I — Vanguardia (500 puntos)
 
@@ -60,19 +60,40 @@ Al final de la partida, el jugador que controle ese objetivo —gane o pierda la
 
 El portador del data-slate empieza la siguiente partida (Fase II, Partida 2) con **+1 CP adicional** (máximo 3 CP iniciales).
 
-### Partida 2 — Ecos en la Frecuencia
+### Partida 2 — La Terminal de Varn
 
-El sector manufacturero guarda más secretos. Los jugadores se adentran en las factorías en busca de las fuentes de las transmisiones fantasma que saturan el vox. Lo que encuentren cambiará el rumbo de la campaña.
+Los fragmentos de la Partida 1 conducen a una terminal oculta en el sector manufacturero. Desde aquí, el Magos Biologis Varn volcó todos sus datos: la naturaleza del artefacto enterrado bajo Caleyat, la causa del Silencio, y un **protocolo de resellado** que puede contener la amenaza o liberarla por completo.
+
+Los jugadores llegan a la terminal sabiendo que algo terrible yace bajo sus pies. Lo que encuentren en los archivos de Varn determinará el curso de la guerra.
+
+Al final de la partida, todos los jugadores reciben la información completa y deben elegir bando:
+- **Resellar a Vorago** (Defensor)
+- **Liberar a Vorago** (Atacante)
 
 #### Despliegue
 
-Se usa la misión **Sweep and Clear** del pack de misiones de Dominatus.
+Se usa la misión **Sweep and Clear** del pack de misiones de Dominatus. Un objetivo central representa la Terminal de Varn.
 
-Dispone de las reglas especiales que el Warmaster indique antes de la partida.
+#### Reglas especiales
+
+A partir de esta partida, todas las unidades deben realizar un test de Liderazgo al inicio de cada ronda (ver documento Warmaster para detalles).
 
 ## Etapa III — Batalla Final (1500 puntos)
 
 La guerra alcanza su punto culminante. No hay restricciones adicionales. Los jugadores despliegan toda la fuerza acumulada durante la campaña.
+
+### Breakout — Adaptación de Crusade: Armageddon
+
+La batalla final se libra en el núcleo de contención de Vorago. Tras la revelación de la Terminal de Varn, los bandos están definidos. Los **Defensores** (resellar) deben alcanzar el panel de control del núcleo y estabilizar el campo teseráctico. Los **Atacantes** (liberar) deben impedirlo para liberar a Vorago.
+
+**Misión asimétrica.** Cada jugador sabe antes de desplegar si es Atacante o Defensor.
+
+- **Defensor (Resellar).** Al final de cada turno, el Defensor gana **10VP** por cada unidad que esté dentro de 6" del objetivo del panel de control del núcleo (el objetivo central de la mesa). Máximo 90VP totales.
+- **Atacante (Liberar).** Al final de la partida, el Atacante gana **15VP** por cada objetivo que controle.
+
+**Despliegue.** El Atacante despliega primero toda su fuerza en su zona de despliegue. El Defensor despliega después en su zona. El Atacante tiene el primer turno.
+
+**Test de Vorago.** Se aplica con penalización −2 al Ld. Si una unidad falla el test y está dentro de 6" del panel de control del núcleo, primero resuelve la carga/avance forzada normalmente. La influencia de Vorago alcanza su punto máximo cuando su destino está en juego.
 
 ## Transición entre etapas
 

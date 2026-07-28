@@ -15,13 +15,37 @@
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
 | 1 | La Fábrica Susurrante | Dominatus estándar | Sin efectos de Vorago. **Revelación parcial:** data-slate de Varn en un objetivo de TN. Fragmento según manufactorum. |
-| 2 | Por determinar | Dominatus estándar | **Revelación:** tras esta partida, los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías. Se revela Vorago. A partir de aquí se activa el Test de Vorago (ver [`vorago.md`](vorago.md)). |
+| 2 | La Terminal de Varn | Dominatus estándar | **Revelación:** los jugadores encuentran el archivo completo de Varn. Se revela Vorago, el Protocolo de Resellado, y la elección de bando. Test de Vorago activo −1 Ld desde esta partida. |
 
 ### Fase III — Batalla Final (1 semana)
 
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
-| 1 | Por determinar | Dominatus estándar | Test de Vorago −2 Ld (ver [`vorago.md`](vorago.md)). Clímax de la campaña. |
+| 1 | Breakout (adaptado) | Dominatus asimétrico | Test de Vorago −2 Ld. Clímax de la campaña. Ver detalles abajo. |
+
+## Breakout adaptado — Fase III
+
+### Definición de bandos
+
+Al finalizar la Fase II Partida 2, cada jugador declara su bando en secreto al Warmaster (opcional: también al rival). Los bandos determinan la misión para la Fase III:
+
+- **Defensor (Resellar).** Quiere alcanzar el panel de control del núcleo de contención y estabilizar el campo teseráctico.
+- **Atacante (Liberar).** Quiere impedir el resellado y liberar a Vorago.
+
+Si hay jugadores de ambos bandos, se emparejan Atacante vs Defensor. Si todos eligen el mismo bando, el Warmaster puede ajustar la narrativa (por ejemplo, todos luchan por llegar primero al panel, o el Warmaster juega como bando opuesto).
+
+### Despliegue
+
+Usar el mapa de despliegue **Breakout** de Crusade: Armageddon (disponible en Wahapedia). El Atacante despliega toda su fuerza primero, luego el Defensor. El Atacante tiene el primer turno.
+
+### Terreno
+
+El núcleo de contención es una estructura industrial abierta. El panel de control está en el centro de la mesa. Al menos 4-6 piezas de terreno que proporcionen cobertura, sin obstruir la línea de visión hacia el centro.
+
+### Victoria
+
+- **Defensor:** 10VP al final de cada turno por cada unidad dentro de 6" del panel de control (máx. 90VP). El Defensor gana si iguala o supera los VP del Atacante.
+- **Atacante:** 15VP por cada objetivo controlado al final de la partida (máx. 90VP). El Atacante gana si supera los VP del Defensor.
 
 ## Notas de emparejamiento
 
@@ -89,7 +113,14 @@ Si el data-slate se pierde (nadie lo controla al final de la partida), el Warmas
 
 ## Condiciones de revelación de Vorago
 
-- **Cuándo:** tras la segunda partida de Fase II.
-- **Cómo:** el Warmaster anuncia que los jugadores encuentran los datos de Varn en los archivos de inventario de las factorías.
-- **Qué se revela:** existencia de Vorago como fragmento de C'tan enterrado bajo Caleyat.
-- **A partir de entonces:** se activa el Test de Vorago en todas las partidas restantes de Fase II y III.
+- **Cuándo:** al final de la Fase II Partida 2 (La Terminal de Varn).
+- **Cómo:** el Warmaster anuncia que los jugadores encuentran el archivo completo de Varn.
+- **Qué se revela:** existencia de Vorago como fragmento de C'tan enterrado bajo Caleyat, causa del Silencio, y el Protocolo de Resellado de Varn.
+- **A partir de entonces:** cada jugador elige bando (Resellar/Liberar). Se activa el Test de Vorago en todas las partidas restantes.
+
+## Consecuencias de la elección final
+
+El resultado de la Fase III determina el destino del sistema:
+
+- **Los Defensores ganan** — Vorago es resellado. El campo teseráctico se estabiliza. El sistema Caleyat sobrevive. Las facciones que sellaron a Vorago son recordadas como salvadoras. Pero Vorago sigue ahí abajo, esperando.
+- **Los Atacantes ganan** — Vorago es liberado. El sistema cae en un nuevo Silencio, esta vez definitivo. Los liberadores ganan un arma de poder incalculable, pero el coste es la aniquilación del sistema.
