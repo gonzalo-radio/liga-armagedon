@@ -103,10 +103,10 @@ El Warmaster anunciará la transición con al menos una semana de antelación.
 
 ## Ascensor Orbital — Reglas adaptadas
 
-### Lista de ejército
+### Lista de ejército [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Mustering-your-Boarding-Patrol)
 
 - 500 pts siguiendo las reglas de construcción de Dominatus (ver documento 04).
-- Se aplican además las restricciones de Boarding Actions: no se permiten vehículos, monstruos, bestias, monturas ni bicicletas. Solo infantería y servocraneos (según el mustering de cada facción en Boarding Actions).
+- Se aplican las reglas de **Boardings Actions mustering**. Cada facción tiene su propia lista de unidades permitidas en la sección Boarding Actions de su página de facción en Wahapedia. Como guía general: solo INFANTERÍA (con excepciones como Canoptek Scarab Swarms o ciertos BEASTS específicos de cada facción). Sin VEHÍCULOS, MONTURAS ni BICICLETAS.
 - Las unidades con Fuerza de Plantilla 10 se dividen en dos unidades de 5, cada una con la mitad de coste (redondeando arriba).
 
 ### Terreno y compuertas [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Boarding-Actions-Battlefields)

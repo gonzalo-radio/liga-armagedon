@@ -36,7 +36,7 @@ Si hay jugadores de ambos bandos, se emparejan Atacante vs Defensor. Si todos el
 
 ### Despliegue
 
-Usar el mapa de despliegue **Breakout** de Crusade: Armageddon (disponible en Wahapedia). El Atacante despliega toda su fuerza primero, luego el Defensor. El Atacante tiene el primer turno.
+Usar el mapa de despliegue **Breakout** de Crusade: Armageddon [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/armageddon/#Breakout). El Atacante despliega toda su fuerza primero, luego el Defensor. El Atacante tiene el primer turno.
 
 ### Terreno
 
