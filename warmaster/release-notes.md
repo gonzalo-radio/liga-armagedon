@@ -1,0 +1,146 @@
+# Release Notes — Warmaster
+
+> Historial completo de cambios. Las entradas marcadas como `[CENSURADO]` en la
+> versión pública se muestran aquí sin censura.
+
+## [0.9.0] — 2026-07-27
+
+### Added
+
+- **Fase II, Partida 2: La Terminal de Varn.** Archivo completo de Varn, Protocolo de Resellado, elección de bando (Resellar/Liberar). Test de Vorago activo desde esta partida.
+- **Fase III: Breakout adaptado.** Misión asimétrica Atacante/Defensor del sistema Crusade: Armageddon. Defensor busca resellar, Atacante liberar.
+- Sección "El Protocolo de Resellado" en documentos Warmaster.
+- Consecuencias narrativas de la elección final en documentos Warmaster.
+
+### Changed
+
+- Partida 2 renombrada de "Ecos en la Frecuencia" a "La Terminal de Varn".
+- Tabla de localizaciones actualizada con Núcleo de Contención para Fase III.
+- Calendario Warmaster actualizado con detalles de Breakout.
+
+## [0.8.0] — 2026-07-26
+
+### Changed
+
+- Reestructuración del calendario: Fase I mantiene 3 misiones a elección del Warmaster, Fase II pasa a 2 partidas, Fase III a 1 partida.
+- Duración total: de 7-10 semanas a 6 semanas.
+- Fase II, Partida 2: nuevo escenario "Ecos en la Frecuencia" añadido a la campaña.
+- Tabla de misiones de Boarding Actions actualizada: "disponibles" en lugar de "una por semana".
+- Sección "Influencia planetaria" eliminada de `03-dominatus.md` y movida a Warmaster.
+
+## [0.7.0] — 2026-07-25
+
+### Added
+
+- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate especial (1d3 sobre objetivo de Tierra de Nadie).
+- Data-slate especial: +1 CP en la partida siguiente.
+- Tabla de 4 manufactorum con ambientación y pintadas.
+
+## [0.6.0] — 2026-07-24
+
+### Added
+
+- Configuración separada para Warmaster (`mkdocs.warmaster.yml`) servida en puerto 8001 con Podman.
+- Documentación Warmaster en `warmaster/`: `index.md`, `vorago.md`, `misiones.md`, `planes-futuros.md`.
+
+### Moved
+
+- Contenido secreto de Vorago, Varn y el Silencio trasladado de los documentos públicos a `warmaster/vorago.md`.
+- Fragmento del diario de Varn trasladado de `planeta-caleyat.md` a `warmaster/vorago.md`.
+
+## [0.5.0] — 2026-07-24
+
+### Added
+
+- Lore de **Vorago**: fragmento de C'tan usado como arma necrona, enterrado bajo Caleyat, causante del Silencio.
+- Lore del **Magos Biologis Varn**: descubridor de Vorago, ocultó los datos en los archivos de inventario de las factorías.
+- Nuevo fragmento en "Fragmentos Recuperados": el diario de Varn identificando a Vorago como C'tan.
+- **Test de Vorago**: mecánica de influencia en el campo de batalla (−1 Ld en Fase II, −2 en Fase III). Al fallar, la unidad carga o avanza hacia el enemigo más cercano.
+- Premisa de Vorago en la introducción.
+- Nota de revelación en Fase II de la campaña.
+
+## [0.4.1] — 2026-07-24
+
+### Added
+
+- Justificación narrativa del control del Ascensor Orbital.
+- Recompensa mecánica por control del ascensor (tirada 1d3) para la Fase II: Suministros Asegurados, Descenso Prioritario o Armamento Orbital.
+
+## [0.4.0] — 2026-07-24
+
+### Added
+
+- Localización de Fase I: Ascensor Orbital. Reglas adaptadas de Boarding Actions para Dominatus.
+- Descripción narrativa del Ascensor Orbital en el lore de Caleyat.
+- Tres misiones simétricas de Boarding Actions para la Fase I: Access Junction Primus, Power Struggle, Control Centre.
+- Tabla de localizaciones en el documento de campaña (Fases I, II, III).
+
+### Changed
+
+- Restricciones de Fase I: se añaden las restricciones de Boarding Actions (sin vehículos, monstruos, bestias, monturas, bicicletas).
+- Adaptación de reglas: estratagemas de BA, enhancements de BA, líderes separados.
+
+## [0.3.0] — 2026-07-24
+
+### Added
+
+- Ilustraciones del sistema Caleyat en formato WebP en cada sección del lore.
+- CSS global para imágenes (`max-width`, sombra, bordes redondeados, centrado).
+- `docs/assets/img/` con las 4 imágenes convertidas.
+
+### Fixed
+
+- `.dockerignore` corregido: ya no excluye los `.md` de `docs/`.
+
+## [0.2.0] — 2026-07-23
+
+### Added
+
+- Lore del sistema Caleyat en `docs/lore/planeta-caleyat.md`:
+  - **Caleyat**: mundo industrial, factorías que operan sin tripulación, población desaparecida sin explicación.
+  - **Sanpolium**: luna helada con archivos administrativos imperiales, posibles PCE.
+  - **Canetum**: mundo oceánico con vida nativa inteligente y astillero orbital abandonado.
+  - **Cinturón de Pineda**: cementerio naval con estaciones de vigilancia mudas.
+- Sección "Lore" en la navegación del sitio MkDocs.
+- Ambientación de `01-introduccion.md` ampliada con descripciones de los cuatro astros.
+
+### Fixed
+
+- `lore/` movido a `docs/lore/` para que MkDocs sirva las páginas correctamente.
+
+## [0.1.0] — 2026-07-23
+
+### Changed
+
+- Sistema/planeta renombrado de "Armageddon" a "Caleyat" en todos los documentos.
+- Liga renombrada de "Liga Armageddon" a "Liga de Warhammer 40,000".
+- "Ascendancy" traducido a "Ascendencia" en todos los documentos.
+
+### Added
+
+- Battle Skills: los perdedores reciben una mejora real tras cada partida.
+- Límite de 3 mejoras por partida.
+- Reliquias: se roban al final de cada fase según Agendas completadas.
+- Tabla de puntuación ampliada con columna de mejora.
+- Sección "Por qué esta liga" en la introducción.
+- Nota: se permite cambiar comandante y destacamento entre etapas.
+- Version badge en esquina superior derecha del sitio.
+- Release Notes (este documento).
+
+### Removed
+
+- Hex map eliminado.
+
+## [0.0.1] — 2026-07-22
+
+### Added
+
+- Estructura inicial del repositorio (`docs/`, `lore/`, `design/`, `rfcs/`, `assets/`, `style/`).
+- Reglamento completo en 9 documentos: introducción, campaña, Dominatus, listas, emparejamientos, puntuación, organización, anexos, mapa (eliminado en v0.1.0).
+- Sitio MkDocs con tema Material, fuente Roboto + Cinzel para títulos.
+- `Containerfile` para servir con Podman.
+- `requirements.txt`, `mkdocs.yml`, `.gitignore`.
+- GitHub Action para despliegue a GitHub Pages.
+- `CHANGELOG.md` y `CONTRIBUTING.md`.
+- Hoja de campaña y referencia rápida de restricciones en anexos.
+- Hex map del sistema Armageddon (eliminado en v0.1.0).
