@@ -3,18 +3,7 @@
 
 ## [0.9.0] — 2026-07-27
 
-### Added
-
-- **Fase II, Partida 2: La Terminal de Varn.** Archivo completo de Varn, Protocolo de Resellado, elección de bando (Resellar/Liberar). Test de Vorago activo desde esta partida.
-- **Fase III: Breakout adaptado.** Misión asimétrica Atacante/Defensor del sistema Crusade: Armageddon. Defensor busca resellar, Atacante liberar.
-- Sección "El Protocolo de Resellado" en documentos Warmaster.
-- Consecuencias narrativas de la elección final en documentos Warmaster.
-
-### Changed
-
-- Partida 2 renombrada de "Ecos en la Frecuencia" a "La Terminal de Varn".
-- Tabla de localizaciones actualizada con Núcleo de Contención para Fase III.
-- Calendario Warmaster actualizado con detalles de Breakout.
+- [CENSURADO]
 
 ## [0.8.0] — 2026-07-26
 
@@ -22,9 +11,9 @@
 
 - Reestructuración del calendario: Fase I mantiene 3 misiones a elección del Warmaster, Fase II pasa a 2 partidas, Fase III a 1 partida.
 - Duración total: de 7-10 semanas a 6 semanas.
-- Fase II, Partida 2: nuevo escenario "Ecos en la Frecuencia" añadido a la campaña.
+- Fase II, Partida 2: nuevo escenario en el sector manufacturero.
 - Tabla de misiones de Boarding Actions actualizada: "disponibles" en lugar de "una por semana".
-- Sección "Influencia planetaria" eliminada de `03-dominatus.md` y movida a Warmaster.
+- [CENSURADO]
 
 ## [0.7.0] — 2026-07-25
 
