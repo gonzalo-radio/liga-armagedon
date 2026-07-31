@@ -1,4 +1,4 @@
-# 01 — Introducción
+# Introducción
 
 > *El planeta yacía en silencio bajo un cielo de ceniza. Los primeros informes hablaban de ruinas, de ecos en la oscuridad, de algo que aguardaba entre las sombras de una civilización olvidada. Pero cuando la vanguardia imperial tocó tierra, ya era demasiado tarde para preguntarse si debían haber venido.*
 >

@@ -1,4 +1,4 @@
-# 06 — Puntuación
+# Puntuación
 
 ## Sistema de puntuación
 
@@ -26,7 +26,7 @@ El Warmaster puede otorgar **1 punto adicional** por:
 - Contribuir a la historia de la campaña (relato post-partida, ambientación, etc.).
 - Demostrar espíritu deportivo excepcional.
 
-Además de los puntos, el resultado de la partida determina qué tipo de mejora recibe cada jugador (consulta [Dominatus](03-dominatus.md) para más detalles).
+Además de los puntos, el resultado de la partida determina qué tipo de mejora recibe cada jugador (consulta [Dominatus](../reglas/dominatus.md) para más detalles).
 
 ## Clasificación
 

@@ -1,10 +1,8 @@
 # Lore — Trasfondo narrativo
 
-Este directorio contiene el trasfondo narrativo de la campaña: descripciones del planeta, facciones implicadas, eventos clave y personajes.
+Este directorio contiene el trasfondo narrativo de la campaña: ambientación, descripciones del sistema y eventos clave.
 
 ## Contenido
 
-- [`planeta-caleyat.md`](planeta-caleyat.md) — Descripción del sistema Caleyat
-- `facciones.md` — Facciones participantes y sus motivaciones
-- `cronologia.md` — Línea temporal de la campaña
-- `relatos.md` — Relatos de las partidas jugadas
+- [`Introducción`](introduccion.md) — Ambientación y premisa de la campaña.
+- [`Sistema Caleyat`](planeta-caleyat.md) — Descripción de los cuatro astros del sistema.

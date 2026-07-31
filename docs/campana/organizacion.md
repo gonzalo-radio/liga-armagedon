@@ -1,4 +1,4 @@
-# 07 — Organización
+# Organización
 
 ## Rol del Warmaster
 

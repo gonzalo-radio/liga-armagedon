@@ -18,7 +18,7 @@ theme:
     - search.suggest
 
 extra:
-  version: "v0.6.0"
+  version: "v0.10.0"
 
 extra_css:
   - style/extra.css
@@ -36,15 +36,19 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - 01 — Introducción: 01-introduccion.md
-  - 02 — La Campaña: 02-campaña.md
-  - 03 — Dominatus: 03-dominatus.md
-  - 04 — Construcción de listas: 04-construccion-listas.md
-  - 05 — Emparejamientos: 05-emparejamientos.md
-  - 06 — Puntuación: 06-puntuacion.md
-  - 07 — Organización: 07-organizacion.md
-  - 08 — Anexos: 08-anexos.md
-  - 09 — Release Notes: 09-release-notes.md
   - Lore:
-    - lore/index.md
-    - lore/planeta-caleyat.md
+      - Introducción: lore/introduccion.md
+      - Lore — Trasfondo: lore/index.md
+      - Sistema Caleyat: lore/planeta-caleyat.md
+  - Organización de la campaña:
+      - La Campaña: campana/campaña.md
+      - Emparejamientos: campana/emparejamientos.md
+      - Puntuación: campana/puntuacion.md
+      - Organización: campana/organizacion.md
+      - Anexos: campana/anexos.md
+  - Reglas:
+      - Dominatus: reglas/dominatus.md
+      - Construcción de listas: reglas/construccion-listas.md
+      - Boarding Actions: reglas/boarding-actions.md
+  - Referencia:
+      - Release Notes: release-notes.md

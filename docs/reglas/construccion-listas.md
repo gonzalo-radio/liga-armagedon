@@ -1,4 +1,4 @@
-# 04 — Construcción de Listas
+# Construcción de Listas
 
 ## Principio fundamental
 

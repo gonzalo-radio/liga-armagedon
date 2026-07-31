@@ -1,6 +1,16 @@
 
 # Release Notes
 
+## [0.10.0] — 2026-07-31
+
+### Changed
+
+- Reorganización de la documentación en tres bloques: `lore/`, `campana/` y `reglas/`.
+- Nuevo documento **Boarding Actions** con las reglas adaptadas de Fase I (extraídas de La Campaña).
+- Navegación del sitio agrupada en secciones: Lore, Organización de la campaña, Reglas y Referencia.
+- La Campaña reducido a la estructura general; el Warmaster comunica las restricciones y misiones de cada fase.
+- Archivos renombrados sin numeración (Introducción, La Campaña, Dominatus, Construcción de listas, Emparejamientos, Puntuación, Organización, Anexos, Boarding Actions, Release Notes).
+
 ## [0.9.0] — 2026-07-27
 
 - [CENSURADO]
@@ -17,11 +27,7 @@
 
 ## [0.7.0] — 2026-07-25
 
-### Added
-
-- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate especial (1d3 sobre objetivo de Tierra de Nadie).
-- Data-slate especial: +1 CP en la partida siguiente.
-- Tabla de 4 manufactorum con ambientación y pintadas.
+- [CENSURADO]
 
 ## [0.6.0] — 2026-07-24
 
@@ -74,7 +80,7 @@
   - **Canetum**: mundo oceánico con vida nativa inteligente y astillero orbital abandonado.
   - **Cinturón de Pineda**: cementerio naval con estaciones de vigilancia mudas.
 - Sección "Lore" en la navegación del sitio MkDocs.
-- Ambientación de `01-introduccion.md` ampliada con descripciones de los cuatro astros.
+- Ambientación de `introduccion.md` ampliada con descripciones de los cuatro astros.
 
 ### Fixed
 

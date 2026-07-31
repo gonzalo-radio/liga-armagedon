@@ -19,7 +19,7 @@ theme:
     - search.suggest
 
 extra:
-  version: "v0.9.0 — Warmaster"
+  version: "v0.10.0 — Warmaster"
 
 extra_css:
   - style/extra.css
@@ -40,21 +40,26 @@ plugins:
 
 nav:
   - Inicio: docs/index.md
-  - 01 — Introducción: docs/01-introduccion.md
-  - 02 — La Campaña: docs/02-campaña.md
-  - 03 — Dominatus: docs/03-dominatus.md
-  - 04 — Construcción de listas: docs/04-construccion-listas.md
-  - 05 — Emparejamientos: docs/05-emparejamientos.md
-  - 06 — Puntuación: docs/06-puntuacion.md
-  - 07 — Organización: docs/07-organizacion.md
-  - 08 — Anexos: docs/08-anexos.md
-  - 09 — Release Notes: docs/09-release-notes.md
   - Lore:
-    - docs/lore/index.md
-    - docs/lore/planeta-caleyat.md
+      - Introducción: docs/lore/introduccion.md
+      - Lore — Trasfondo: docs/lore/index.md
+      - Sistema Caleyat: docs/lore/planeta-caleyat.md
+  - Organización de la campaña:
+      - La Campaña: docs/campana/campaña.md
+      - Emparejamientos: docs/campana/emparejamientos.md
+      - Puntuación: docs/campana/puntuacion.md
+      - Organización: docs/campana/organizacion.md
+      - Anexos: docs/campana/anexos.md
+  - Reglas:
+      - Dominatus: docs/reglas/dominatus.md
+      - Construcción de listas: docs/reglas/construccion-listas.md
+      - Boarding Actions: docs/reglas/boarding-actions.md
+  - Referencia:
+      - Release Notes: docs/release-notes.md
   - Warmaster:
-    - warmaster/index.md
-    - warmaster/vorago.md
-    - warmaster/misiones.md
-    - warmaster/release-notes.md
-    - warmaster/planes-futuros.md
+      - warmaster/index.md
+      - warmaster/campana.md
+      - warmaster/vorago.md
+      - warmaster/misiones.md
+      - warmaster/release-notes.md
+      - warmaster/planes-futuros.md

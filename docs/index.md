@@ -4,15 +4,16 @@ Bienvenido a la **Liga de Warhammer 40,000**, un reglamento para campañas narra
 
 ## Documentos
 
-| Documento | Descripción |
-|---|---|
-| [01 — Introducción](01-introduccion.md) | Ambientación y premisa narrativa |
-| [02 — La Campaña](02-campaña.md) | Estructura, fases y progresión |
-| [03 — Dominatus](03-dominatus.md) | Adaptación del sistema Dominatus |
-| [04 — Construcción de listas](04-construccion-listas.md) | Reglas para crear y evolucionar ejércitos |
-| [05 — Emparejamientos](05-emparejamientos.md) | Sistema de emparejamiento semanal |
-| [06 — Puntuación](06-puntuacion.md) | Sistema de puntuación y desempates |
-| [07 — Organización](07-organizacion.md) | Guía para el Warmaster |
-| [08 — Anexos](08-anexos.md) | Hojas de campaña y referencias rápidas |
-| [09 — Release Notes](09-release-notes.md) | Historial de versiones del reglamento |
-| [Lore](lore/index.md) | Trasfondo narrativo del sistema Caleyat |
+| Bloque | Documento | Descripción |
+|---|---|---|
+| Lore | [Introducción](lore/introduccion.md) | Ambientación y premisa narrativa |
+| Lore | [Lore — Trasfondo](lore/index.md) | El sistema Caleyat y sus mundos |
+| Organización | [La Campaña](campana/campaña.md) | Estructura general y fases |
+| Organización | [Emparejamientos](campana/emparejamientos.md) | Sistema de emparejamiento semanal |
+| Organización | [Puntuación](campana/puntuacion.md) | Sistema de puntuación y desempates |
+| Organización | [Organización](campana/organizacion.md) | Guía para el Warmaster |
+| Organización | [Anexos](campana/anexos.md) | Hoja de campaña del jugador |
+| Reglas | [Dominatus](reglas/dominatus.md) | Adaptación del sistema Dominatus |
+| Reglas | [Construcción de listas](reglas/construccion-listas.md) | Reglas para crear y evolucionar ejércitos |
+| Reglas | [Boarding Actions](reglas/boarding-actions.md) | Reglas adaptadas para la Fase I |
+| Referencia | [Release Notes](release-notes.md) | Historial de versiones del reglamento |

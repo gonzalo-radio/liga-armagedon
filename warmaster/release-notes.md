@@ -3,6 +3,21 @@
 > Historial completo de cambios. Las entradas marcadas como `[CENSURADO]` en la
 > versión pública se muestran aquí sin censura.
 
+## [0.10.0] — 2026-07-31
+
+### Changed
+
+- Documentación reorganizada en tres bloques: `docs/lore/`, `docs/campana/` y `docs/reglas/`.
+- Nuevo documento público **Boarding Actions** (reglas adaptadas de Fase I extraídas de La Campaña).
+- Navegación de ambos sitios agrupada en secciones: Lore, Organización de la campaña, Reglas y Referencia.
+- `warmaster/index.md` convertido en **guía de uso**: contenido, flujo semanal del Warmaster y script de revelación de la Partida 2.
+- `warmaster/vorago.md` reorganizado en dos bloques: **Lore** y **Mecánicas**.
+- `warmaster/misiones.md` reorganizado en orden cronológico de campaña (calendario, manufactorum, revelación, Breakout, consecuencias).
+- `warmaster/planes-futuros.md` limpiado (localizaciones ya definidas) y ampliado con ideas post-campaña.
+- Nombre público de la Partida 2 fijado: **"Ecos en la Frecuencia"**; "La Terminal de Varn" queda como nombre de revelación en mesa.
+- Nuevo `warmaster/campana.md`: detalle completo de la campaña (restricciones por etapa, partidas de Fase II con data-slate, transición, referencia de restricciones). El público conserva solo la estructura general de La Campaña y ya no publica restricciones (eliminadas de Anexos).
+- Archivos públicos renombrados sin numeración (Introducción, La Campaña, Dominatus, Construcción de listas, Emparejamientos, Puntuación, Organización, Anexos, Boarding Actions, Release Notes).
+
 ## [0.9.0] — 2026-07-27
 
 ### Added
@@ -26,7 +41,7 @@
 - Duración total: de 7-10 semanas a 6 semanas.
 - Fase II, Partida 2: nuevo escenario "Ecos en la Frecuencia" añadido a la campaña.
 - Tabla de misiones de Boarding Actions actualizada: "disponibles" en lugar de "una por semana".
-- Sección "Influencia planetaria" eliminada de `03-dominatus.md` y movida a Warmaster.
+- Sección "Influencia planetaria" eliminada de `dominatus.md` y movida a Warmaster.
 
 ## [0.7.0] — 2026-07-25
 
@@ -102,7 +117,7 @@
   - **Canetum**: mundo oceánico con vida nativa inteligente y astillero orbital abandonado.
   - **Cinturón de Pineda**: cementerio naval con estaciones de vigilancia mudas.
 - Sección "Lore" en la navegación del sitio MkDocs.
-- Ambientación de `01-introduccion.md` ampliada con descripciones de los cuatro astros.
+- Ambientación de `introduccion.md` ampliada con descripciones de los cuatro astros.
 
 ### Fixed
 

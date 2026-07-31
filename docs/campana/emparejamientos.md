@@ -1,4 +1,4 @@
-# 05 — Emparejamientos
+# Emparejamientos
 
 ## Sistema de emparejamiento
 

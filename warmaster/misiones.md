@@ -1,6 +1,8 @@
 # Misiones — Calendario y notas (solo Warmaster)
 
-## Calendario semanal
+> Documento de campaña en orden cronológico: calendario semanal, manufactorum de la Fase II, revelación de Vorago, Breakout de la Fase III y consecuencias finales. El flujo semanal y el script de revelación están en [`index.md`](index.md).
+
+## 1. Calendario semanal
 
 ### Fase I — Vanguardia (3 semanas)
 
@@ -17,43 +19,15 @@
 | 1 | La Fábrica Susurrante | Dominatus estándar | Sin efectos de Vorago. **Revelación parcial:** data-slate de Varn en un objetivo de TN. Fragmento según manufactorum. |
 | 2 | La Terminal de Varn | Dominatus estándar | **Revelación:** los jugadores encuentran el archivo completo de Varn. Se revela Vorago, el Protocolo de Resellado, y la elección de bando. Test de Vorago activo −1 Ld desde esta partida. |
 
+> El nombre público de la Partida 2 es **"Ecos en la Frecuencia"**. "La Terminal de Varn" se revela en mesa según el script de [`index.md`](index.md).
+
 ### Fase III — Batalla Final (1 semana)
 
 | Semana | Misión | Reglas | Notas |
 |---|---|---|---|
-| 1 | Breakout (adaptado) | Dominatus asimétrico | Test de Vorago −2 Ld. Clímax de la campaña. Ver detalles abajo. |
+| 1 | Breakout (adaptado) | Dominatus asimétrico | Test de Vorago −2 Ld. Clímax de la campaña. Ver detalles en la sección 4. |
 
-## Breakout adaptado — Fase III
-
-### Definición de bandos
-
-Al finalizar la Fase II Partida 2, cada jugador declara su bando en secreto al Warmaster (opcional: también al rival). Los bandos determinan la misión para la Fase III:
-
-- **Defensor (Resellar).** Quiere alcanzar el panel de control del núcleo de contención y estabilizar el campo teseráctico.
-- **Atacante (Liberar).** Quiere impedir el resellado y liberar a Vorago.
-
-Si hay jugadores de ambos bandos, se emparejan Atacante vs Defensor. Si todos eligen el mismo bando, el Warmaster puede ajustar la narrativa (por ejemplo, todos luchan por llegar primero al panel, o el Warmaster juega como bando opuesto).
-
-### Despliegue
-
-Usar el mapa de despliegue **Breakout** de Crusade: Armageddon [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/armageddon/#Breakout). El Atacante despliega toda su fuerza primero, luego el Defensor. El Atacante tiene el primer turno.
-
-### Terreno
-
-El núcleo de contención es una estructura industrial abierta. El panel de control está en el centro de la mesa. Al menos 4-6 piezas de terreno que proporcionen cobertura, sin obstruir la línea de visión hacia el centro.
-
-### Victoria
-
-- **Defensor:** 10VP al final de cada turno por cada unidad dentro de 6" del panel de control (máx. 90VP). El Defensor gana si iguala o supera los VP del Atacante.
-- **Atacante:** 15VP por cada objetivo controlado al final de la partida (máx. 90VP). El Atacante gana si supera los VP del Defensor.
-
-## Notas de emparejamiento
-
-- Intentar que ningún jugador se enfrente al mismo rival dos semanas seguidas.
-- Si hay número impar de jugadores, el Warmaster puede dar un descanso o jugar como facción neutral.
-- Las alianzas de Dominatus pueden modificar los emparejamientos.
-
-## La Fábrica Susurrante — Manufactorum asignados
+## 2. La Fábrica Susurrante — Manufactorum asignados
 
 Cada mesa representa un manufactorum distinto del sector industrial. Varn dispersó sus datos entre varios archivos de inventario para que nadie pudiera reunir la verdad con una sola pieza. El Warmaster asigna un manufactorum a cada mesa, entrega el fragmento de Varn correspondiente al portador del data-slate al final de la partida, y puede leer las pintadas en voz alta durante la partida (al capturar un objetivo, al inicio de una ronda, etc.) para ambientación.
 
@@ -111,16 +85,46 @@ Si el data-slate se pierde (nadie lo controla al final de la partida), el Warmas
 
 > *"He simulado la expansión del campo. Si la contención sigue degradándose, en cuestión de semanas toda la superficie estará en su radio de efecto."*
 
-## Condiciones de revelación de Vorago
+## 3. Revelación de Vorago
 
 - **Cuándo:** al final de la Fase II Partida 2 (La Terminal de Varn).
-- **Cómo:** el Warmaster anuncia que los jugadores encuentran el archivo completo de Varn.
+- **Cómo:** el Warmaster anuncia que los jugadores encuentran el archivo completo de Varn (script en [`index.md`](index.md)).
 - **Qué se revela:** existencia de Vorago como fragmento de C'tan enterrado bajo Caleyat, causa del Silencio, y el Protocolo de Resellado de Varn.
 - **A partir de entonces:** cada jugador elige bando (Resellar/Liberar). Se activa el Test de Vorago en todas las partidas restantes.
 
-## Consecuencias de la elección final
+## 4. Breakout adaptado — Fase III
+
+### Definición de bandos
+
+Al finalizar la Fase II Partida 2, cada jugador declara su bando en secreto al Warmaster (opcional: también al rival). Los bandos determinan la misión para la Fase III:
+
+- **Defensor (Resellar).** Quiere alcanzar el panel de control del núcleo de contención y estabilizar el campo teseráctico.
+- **Atacante (Liberar).** Quiere impedir el resellado y liberar a Vorago.
+
+Si hay jugadores de ambos bandos, se emparejan Atacante vs Defensor. Si todos eligen el mismo bando, el Warmaster puede ajustar la narrativa (por ejemplo, todos luchan por llegar primero al panel, o el Warmaster juega como bando opuesto).
+
+### Despliegue
+
+Usar el mapa de despliegue **Breakout** de Crusade: Armageddon [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/armageddon/#Breakout). El Atacante despliega toda su fuerza primero, luego el Defensor. El Atacante tiene el primer turno.
+
+### Terreno
+
+El núcleo de contención es una estructura industrial abierta. El panel de control está en el centro de la mesa. Al menos 4-6 piezas de terreno que proporcionen cobertura, sin obstruir la línea de visión hacia el centro.
+
+### Victoria
+
+- **Defensor:** 10VP al final de cada turno por cada unidad dentro de 6" del panel de control (máx. 90VP). El Defensor gana si iguala o supera los VP del Atacante.
+- **Atacante:** 15VP por cada objetivo controlado al final de la partida (máx. 90VP). El Atacante gana si supera los VP del Defensor.
+
+## 5. Consecuencias de la elección final
 
 El resultado de la Fase III determina el destino del sistema:
 
 - **Los Defensores ganan** — Vorago es resellado. El campo teseráctico se estabiliza. El sistema Caleyat sobrevive. Las facciones que sellaron a Vorago son recordadas como salvadoras. Pero Vorago sigue ahí abajo, esperando.
 - **Los Atacantes ganan** — Vorago es liberado. El sistema cae en un nuevo Silencio, esta vez definitivo. Los liberadores ganan un arma de poder incalculable, pero el coste es la aniquilación del sistema.
+
+## 6. Notas de emparejamiento
+
+- Intentar que ningún jugador se enfrente al mismo rival dos semanas seguidas.
+- Si hay número impar de jugadores, el Warmaster puede dar un descanso o jugar como facción neutral.
+- Las alianzas de Dominatus pueden modificar los emparejamientos.

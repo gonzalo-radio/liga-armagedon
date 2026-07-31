@@ -1,4 +1,4 @@
-# 03 — Dominatus
+# Dominatus
 
 ## Sistema base
 

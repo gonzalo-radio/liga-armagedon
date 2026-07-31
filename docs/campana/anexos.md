@@ -1,4 +1,4 @@
-# 08 — Anexos
+# Anexos
 
 ## Hoja de campaña del jugador
 
@@ -48,11 +48,3 @@ _________________________________________
 ─── ASCENDANCY ────────────────────────────
 Total: ___
 ```
-
-## Referencia rápida de restricciones
-
-| Etapa | Puntos | Max R | Épicos | Fortificaciones |
-|---|---|---|---|---|
-| I | 500 | R9 | No | No |
-| II | 1000 | — | Sí | No |
-| III | 1500 | — | Sí | Sí |

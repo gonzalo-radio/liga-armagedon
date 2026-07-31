@@ -1,19 +1,18 @@
 # CHANGELOG
 
-## [0.9.0] — 2026-07-27
-
-### Added
-
-- Fase II, Partida 2: **La Terminal de Varn** — archivo completo de Varn, Protocolo de Resellado, elección de bando.
-- Fase III: **Breakout adaptado** — misión asimétrica Atacante/Defensor del sistema Crusade: Armageddon.
-- Sección "El Protocolo de Resellado" en `warmaster/vorago.md`.
-- Consecuencias narrativas de resellar o liberar Vorago.
-- Test de Vorago activo desde la Partida 2 de Fase II.
+## [0.10.0] — 2026-07-31
 
 ### Changed
 
-- Partida 2 renombrada de "Ecos en la Frecuencia" a "La Terminal de Varn".
-- Localización de Fase III actualizada a "Núcleo de Contención — Sector Manufacturero".
+- Reorganización de la documentación en tres bloques: `lore/`, `campana/` y `reglas/`.
+- Nuevo documento **Boarding Actions** con las reglas adaptadas de Fase I (extraídas de La Campaña).
+- Navegación del sitio agrupada en secciones: Lore, Organización de la campaña, Reglas y Referencia.
+- Detalle de la campaña trasladado a la documentación interna del Warmaster: la versión pública de La Campaña conserva solo la estructura general y las restricciones dejan de publicarse.
+- Archivos renombrados sin numeración (Introducción, La Campaña, Dominatus, Construcción de listas, Emparejamientos, Puntuación, Organización, Anexos, Boarding Actions, Release Notes).
+
+## [0.9.0] — 2026-07-27
+
+- [CENSURADO]
 
 ## [0.8.0] — 2026-07-26
 
@@ -21,7 +20,7 @@
 
 - Calendario de campaña reestructurado: Fase I (3 misiones opcionales), Fase II (2 partidas), Fase III (1 partida).
 - Duración total: 6 semanas.
-- Tabla de semanas en `02-campaña.md` actualizada.
+- Tabla de semanas en `campana/campaña.md` actualizada.
 
 ### Added
 
@@ -29,10 +28,7 @@
 
 ## [0.7.0] — 2026-07-25
 
-### Added
-
-- Fase II, Partida 1: **La Fábrica Susurrante** — ambientación, regla del data-slate especial.
-- Data-slate especial: +1 CP en la partida siguiente.
+- [CENSURADO]
 
 ## [0.6.0] — 2026-07-24
 
