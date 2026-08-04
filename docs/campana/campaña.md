@@ -12,6 +12,7 @@ La campaña se divide en **tres etapas**. Cada etapa representa una fase del con
 
 La duración total estimada es de **6 semanas**. El Warmaster decide cuántas partidas de Fase I se juegan de las 3 disponibles.
 
+<!--
 ### Localizaciones
 
 | Fase | Localización | Reglas | Tamaño de mesa |
@@ -21,3 +22,4 @@ La duración total estimada es de **6 semanas**. El Warmaster decide cuántas pa
 | III — Batalla Final | Por determinar | Dominatus estándar | 44"×60" |
 
 El Warmaster comunicará las restricciones, las misiones de cada fase y los detalles de la progresión antes del inicio de cada etapa. Las reglas de mesa para la Fase I están en el [Boarding Actions (Fase I)](../reglas/boarding-actions.md).
+-->

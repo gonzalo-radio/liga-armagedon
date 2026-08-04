@@ -7,7 +7,6 @@ Bienvenido a la **Liga de Warhammer 40,000**, un reglamento para campañas narra
 | Bloque | Documento | Descripción |
 |---|---|---|
 | Lore | [Introducción](lore/introduccion.md) | Ambientación y premisa narrativa |
-| Lore | [Lore — Trasfondo](lore/index.md) | El sistema Caleyat y sus mundos |
 | Organización | [La Campaña](campana/campaña.md) | Estructura general y fases |
 | Organización | [Emparejamientos](campana/emparejamientos.md) | Sistema de emparejamiento semanal |
 | Organización | [Puntuación](campana/puntuacion.md) | Sistema de puntuación y desempates |

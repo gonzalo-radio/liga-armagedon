@@ -42,7 +42,6 @@ nav:
   - Inicio: docs/index.md
   - Lore:
       - Introducción: docs/lore/introduccion.md
-      - Lore — Trasfondo: docs/lore/index.md
       - Sistema Caleyat: docs/lore/planeta-caleyat.md
   - Organización de la campaña:
       - La Campaña: docs/campana/campaña.md
