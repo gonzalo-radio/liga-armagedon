@@ -40,6 +40,8 @@ nav:
       - Introducción: lore/introduccion.md
       - Sistema Caleyat: lore/planeta-caleyat.md
       - Facciones: lore/facciones.md
+  - Narrativa:
+      - Cronología: narrativa/cronologia.md
   - Organización de la campaña:
       - La Campaña: campana/campaña.md
       - Emparejamientos: campana/emparejamientos.md

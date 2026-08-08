@@ -32,9 +32,10 @@ Esta sección contiene información reservada para el organizador de la liga. No
 ### Después de la ronda
 
 1. Recoger resultados y actualizar la clasificación ([`Puntuación`](../docs/campana/puntuacion.md)).
-2. Fase II, Partida 1: entregar el **fragmento de Varn** al portador del data-slate (o decidir si se pierde).
-3. Fase II, Partida 2: recibir la **elección de bando** de cada jugador en secreto.
-4. Anotar lo ocurrido en [`misiones.md`](misiones.md) para las siguientes semanas.
+2. Publicar la entrada de la semana en la [`Cronología`](../docs/narrativa/cronologia.md): añadir el suceso con su fecha del 42.º milenio y redactar la narración (un archivo en `relatos/`). Validar que ni la entrada ni la narración desvelen la trama (Vorago, Varn, Protocolo de Resellado, bando de los jugadores).
+3. Fase II, Partida 1: entregar el **fragmento de Varn** al portador del data-slate (o decidir si se pierde).
+4. Fase II, Partida 2: recibir la **elección de bando** de cada jugador en secreto.
+5. Anotar lo ocurrido en [`misiones.md`](misiones.md) para las siguientes semanas.
 
 ## Script de revelación — Fase II, Partida 2
 
