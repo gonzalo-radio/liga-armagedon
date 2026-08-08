@@ -15,12 +15,13 @@ Esta sección contiene información reservada para el organizador de la liga. No
 ### Antes de la ronda
 
 1. Revisar [`misiones.md`](misiones.md) para la semana en curso y las notas de la semana anterior.
-2. Publicar emparejamientos (según [`Emparejamientos`](../docs/campana/emparejamientos.md)).
-3. Verificar que las listas cumplen las restricciones de la fase ([`campana.md`](campana.md)).
-4. Fase I: asignar misión de Boarding Actions por mesa ([`Boarding Actions`](../docs/reglas/boarding-actions.md)).
-5. Fase II, Partida 1: recordar la regla del **data-slate** ([`campana.md`](campana.md)) y asignar manufactorum por mesa ([`misiones.md`](misiones.md)).
-6. Fase II, Partida 2: preparar la **revelación** (script más abajo).
-7. Fase III: recoger el bando (Resellar/Liberar) de cada jugador y preparar Breakout ([`misiones.md`](misiones.md)).
+2. Validar las entradas de facciones de los jugadores ([`Facciones`](../docs/lore/facciones.md)): los motivos no pueden insinuar Vorago, Varn ni el Protocolo de Resellado, ni desvelar la elección de bando. Pedir reescritura si algo delata la trama.
+3. Publicar emparejamientos (según [`Emparejamientos`](../docs/campana/emparejamientos.md)).
+4. Verificar que las listas cumplen las restricciones de la fase ([`campana.md`](campana.md)).
+5. Fase I: asignar misión de Boarding Actions por mesa ([`Boarding Actions`](../docs/reglas/boarding-actions.md)).
+6. Fase II, Partida 1: recordar la regla del **data-slate** ([`campana.md`](campana.md)) y asignar manufactorum por mesa ([`misiones.md`](misiones.md)).
+7. Fase II, Partida 2: preparar la **revelación** (script más abajo).
+8. Fase III: recoger el bando (Resellar/Liberar) de cada jugador y preparar Breakout ([`misiones.md`](misiones.md)).
 
 ### Durante la ronda
 
