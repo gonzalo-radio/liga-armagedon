@@ -51,6 +51,7 @@ nav:
   - Reglas:
       - Dominatus: reglas/dominatus.md
       - Construcción de listas: reglas/construccion-listas.md
+      - Incursion: reglas/incursion.md
       - Boarding Actions: reglas/boarding-actions.md
   - Referencia:
       - Release Notes: release-notes.md
