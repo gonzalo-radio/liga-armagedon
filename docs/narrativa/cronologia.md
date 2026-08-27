@@ -9,6 +9,7 @@ Las fechas usan el formato `semana.año.M42` (p. ej. `43.071.M42`): la semana id
 | Fecha | Fase | Suceso | Narración |
 |---|---|---|---|
 | 43.071.M42 | Fase I — Vanguardia | Llegada de la Cruzada de los Hijos Penitentes al sistema | [Leer la narración](relatos/llegada-cruzada-hijos-penitentes.md) |
+| 45.071.M42 | Fase I — Vanguardia | Llegada de la Orden de Nuestra Señora Mártir al sistema | [Leer la narración](relatos/llegada-orden-nuestra-senora-martir.md) |
 
 ## Cómo se añade un suceso
 
