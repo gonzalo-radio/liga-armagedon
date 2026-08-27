@@ -5,10 +5,16 @@
 | Fase | Fase I — Vanguardia |
 | Suceso | Llegada de la fuerza sororitas al sistema de Caleyat |
 
-La fragata emergió del Warp con los escudos de dispersión aún humeantes, como si el tejido del espacio mismo hubiera intentado retenerla. Era una nave de la Orden de Nuestra Señora Mártir: esbelta, blanca como los huesos de una mártir, con la proa grabada en relieve por las armas de la fe que el Convento Sanctorum había bendecido hace siglos.
+Las bóvedas del Convento Sanctorum respiraban incienso y cera derretida. Bajo arcos de piedra ennegrecida por milenios de letanías, la luz de cientos de cirios hacía danzar las sombras sobre el rostro sereno del Guía Eterno, esculpido en mármol blanco sobre el altar mayor. El silencio solo era roto por el roce del pergamino al pasar sus páginas y el murmullo lejano de los coros que entonaban las Horas Canónicas.
 
-En la cámara de oración, la Palatina arrodillada mantenía los ojos cerrados mientras las palabras del mensaje astropático —fragmentado, casi ilegible— resonaban en su memoria. Un sistema perdido. Un voto pronunciado por las primeras Hermanas que pisaron aquellas forjas. El Primer Voto de Caleyat, escrito en los archivos más antiguos del Convento y olvidado desde hacía generaciones.
+El informe era breve. Hablaba de un sistema perdido, de hornos que jamás debieron volver a encenderse y de manufactorums que seguían respirando cuando toda vida había desaparecido hacía siglos. La Canonesa apenas se detuvo en aquellas líneas. Fue un nombre, rescatado de los archivos más antiguos del Sanctorum, el que hizo que el códice permaneciera abierto sobre el altar.
 
-La Canonesa no había dudado. La misión era clara: recuperar el Voto y devolverlo al Convento. Nada más. La Palatina había jurado cumplirla antes de que la fragata abandonara la órbita de Sanctorum.
+El Primer Voto de Caleyat.
 
-La nave desaceleró sobre el sistema, cuyos mundos guardaban un silencio que no era paz, sino ausencia. Las instrumentos revelaron lo mismo que el mensaje astropático sugería: actividad reciente, inexplicable, en un lugar que había permanecido muerto durante siglos. La Palatina no buscó respuestas. Su misión era una sola, y ya había jurado cumplirla.
+—Lo recuperarás.
+
+La Palatina inclinó la cabeza. No pidió explicaciones. 
+
+Al abandonar la capilla, el murmullo de las oraciones dio paso al eco metálico de las botas sobre la piedra. Una a una, las Hermanas acudieron a su llamada, vistiendo las túnicas carmesí sobre el negro bruñido de sus armaduras reliquia. Ninguna conocía qué aguardaba en Caleyat.
+
+Ninguna necesitaba saberlo.
