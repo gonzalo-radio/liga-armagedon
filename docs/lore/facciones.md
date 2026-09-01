@@ -24,6 +24,20 @@ Deseosa de comprender qué podía haber derribado a todo un sistema, la Cruzada 
 Un mensaje astropático fragmentado, procedente de una expedición imperial en Caleyat, llegó al Convento Sanctorum. Al consultar los archivos más antiguos en busca de referencias al sistema, los escribas encontraron una única mención: el Primer Voto de Caleyat, pronunciado por las primeras Hermanas enviadas al mundo el día en que sus forjas fueron consagradas al servicio del Emperador. Tras aquella breve anotación, el registro terminaba abruptamente. Ningún otro documento volvía a mencionar el destino de la misión ni el paradero del Primer Voto.
 La Canonesa del Convento Sanctorum encomendó la misión a una Palatina de la Orden de Nuestra Señora Mártir con una única orden: recuperar el Primer Voto y devolverlo al Convento. Al frente de una pequeña fuerza de la Orden de Nuestra Señora Mártir, la Palatina partió hacia un sistema que había permanecido en silencio durante siglos y cuya repentina actividad despertaba innumerables preguntas. Ninguna de ellas le correspondía responder. Su misión era una sola, y ya había jurado cumplirla.
 
+## Drukhari — Cabal Oscuro
+
+### Origen
+
+Los Drukhari no tienen un mundo de origen. Su civilización habita en Comorragh, una ciudadela oculta en la Telaraña, la dimensión subterránea que conecta los rincones más remotos de la galaxia. Desde allí, los Cabales Oscuros lanzan incursiones para capturar almas y esclavos que mantienen a salvo su existencia de la destrucción que consumió a los Aeldari ancestrales.
+
+No navegan el vacío como otros. La Telaraña es su highway, sus rutas, su hogar. A través de portales dimensionales pueden aparecer en cualquier punto del espacio sin previo aviso, sin naves, sin señales de aproximación.
+
+### Por qué vienen a Caleyat
+
+El océano de Canetum contiene algo que los Drukhari desean. No se sabe qué: quizá un artefacto de los Aeldari ancestrales, quizá información sobre la desaparición del sistema que pueda tener valor para Comorragh. Lo que es seguro es que han cruzado la Telaraña hasta el mundo oceánico y han abierto una brecha en su superficie, descendiendo por las profundidades con la facilidad de quien regresa a casa.
+
+Su llegada no ha sido declarada. No han enviado mensajeros. No han mostrado intención de combate. Solo han aparecido, han descendido y han desaparecido, dejando la certeza de que algo en las profundidades de Canetum ha sido alterado.
+
 ## Facciones pendientes
 
 Las entradas del resto de facciones participantes se añadirán aquí a medida que sus jugadores las definan con el Warmaster.
