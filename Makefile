@@ -1,4 +1,17 @@
-.PHONY: serve warmaster build down logs rebuild shell clean
+.PHONY: help serve warmaster build down logs rebuild shell clean
+
+help:
+	@echo "Uso: make <comando>"
+	@echo ""
+	@echo "Comandos:"
+	@echo "  serve      Levantar sitio público en :8000"
+	@echo "  warmaster  Levantar sitio Warmaster en :8001"
+	@echo "  build      Generar sitio estático"
+	@echo "  down       Detener contenedores"
+	@echo "  logs       Ver logs"
+	@echo "  rebuild    Reconstruir imagen + levantar"
+	@echo "  shell      Bash en el contenedor"
+	@echo "  clean      Limpiar cache y site/"
 
 serve:
 	podman-compose up serve
