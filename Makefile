@@ -14,13 +14,13 @@ help:
 	@echo "  clean      Limpiar cache y site/"
 
 serve:
-	podman-compose up serve
+	podman-compose up -d serve
 
 warmaster:
-	podman-compose --profile warmaster up warmaster
+	podman-compose --profile warmaster up -d warmaster
 
 build:
-	podman-compose --profile build up build
+	podman-compose --profile build up -d build
 
 down:
 	podman-compose down
