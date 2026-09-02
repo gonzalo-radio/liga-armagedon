@@ -26,3 +26,7 @@ Las fuerzas que habían llegado al sistema se miraban unas a otras desde sus nav
 El silencio del sistema no era paz. Era el aliento de una bestia antes del primer mordisco.
 
 El Ascensor Orbital esperaba. Y debajo, en la superficie de Caleyat, las factorías seguían trabajando solas, como si alguien —o algo— las estuviera manteniendo en marcha.
+
+---
+
+> Las primeras fuerzas que se enfrenten deberán disputar el control del Ascensor Orbital. Ver [Misiones — Semana 1](../../campana/misiones.md#semana-1).
