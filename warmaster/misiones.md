@@ -128,3 +128,17 @@ El resultado de la Fase III determina el destino del sistema:
 - Intentar que ningún jugador se enfrente al mismo rival dos semanas seguidas.
 - Si hay número impar de jugadores, el Warmaster puede dar un descanso o jugar como facción neutral.
 - Las alianzas de Dominatus pueden modificar los emparejamientos.
+
+## 7. Control del Ascensor
+
+Al final de la Fase I, la facción que haya acumulado más victorias en las misiones del Ascensor Orbital se considera que controla la estructura. En caso de empate, el control lo determina el Warmaster en base al desempeño narrativo durante la fase.
+
+**Justificación narrativa.** El Ascensor Orbital es la única infraestructura funcional que conecta la superficie de Caleyat con el espacio. Acceder al planeta por otros medios —descensos atmosféricos, cápsulas de desembarco, drop pods— es técnicamente posible, pero prohibitivamente peligroso y costoso. La atmósfera de Caleyat está cargada de partículas que ciegan los sensores de aproximación, las defensas antiaéreas automatizadas del sistema siguen operativas en modo fantasma, y cualquier nave que intente un descenso fuera del ascensor se expone a perder el 30% de sus efectivos antes de tocar suelo. Quien controle el ascensor controla el único conducto viable para mover ejércitos enteros entre el vacío y la superficie.
+
+**Recompensa.** Al inicio de la Fase II, el jugador que controla el ascensor tira 1d3 y aplica el beneficio correspondiente durante toda la Fase II:
+
+| 1d3 | Recompensa | Efecto |
+|---|---|---|
+| 1 | Suministros Asegurados | +1 CP al inicio de cada partida. |
+| 2 | Descenso Prioritario | Eliges la zona de despliegue o el orden de turno (tu elección) en cada partida. |
+| 3 | Refuerzo de Línea | Añade una unidad extra con la keyword Línea de Batalla a tu ejército para la Fase II. |
