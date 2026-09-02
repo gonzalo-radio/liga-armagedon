@@ -48,6 +48,7 @@ nav:
       - Cronología: docs/narrativa/cronologia.md
   - Organización de la campaña:
       - La Campaña: docs/campana/campaña.md
+      - Misiones: docs/campana/misiones.md
       - Emparejamientos: docs/campana/emparejamientos.md
       - Puntuación: docs/campana/puntuacion.md
       - Organización: docs/campana/organizacion.md

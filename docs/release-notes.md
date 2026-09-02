@@ -1,6 +1,22 @@
 
 # Release Notes
 
+## [0.11.0] — 2026-09-01
+
+### Añadido
+
+- **Facción Drukhari — Cabal Oscuro**: nueva facción jugable con origen en Comorragh y llegada a Canetum a través de la Telaraña.
+- **Narración de llegada de los Drukhari**: los Drukhari aparecen en Canetum sin naves, abriendo una brecha dimensional en el mundo oceánico y descendiendo al océano (semana 42.071.M42).
+- **Cronología ampliada**: tres nuevos sucesos en la Fase I — llegada de Drukhari (42.071.M42), llegada de Templarios Negros (43.071.M42), llegada de Adepta Sororitas (45.071.M42).
+- **Crisis en el Ascensor Orbital**: narración sobre la imposibilidad de descender a la superficie sin controlar el ascensor (50.071.M42).
+- **Documento de Misiones**: nueva página `campana/misiones.md` con el calendario de misiones de la Fase I, comenzando por Access Junction Primus.
+- **Makefile**: comandos para podman-compose (`make serve`, `make warmaster`, `make build`, `make down`, `make logs`, `make rebuild`, `make shell`, `make clean`, `make help`).
+
+### Modificado
+
+- Servicios podman-compose se ejecutan en segundo plano por defecto (flag `-d`).
+- Makefile muestra ayuda por defecto al ejecutar `make` sin argumentos.
+
 ## [0.10.0] — 2026-07-31
 
 ### Changed
@@ -56,7 +72,7 @@
 ### Changed
 
 - Restricciones de Fase I: se añaden las restricciones de Boarding Actions (sin vehículos, monstruos, bestias, monturas, bicicletas).
-- Adaptación de reglas: estratagemas de BA, enhancements de BA, líderes separados.
+- Adaptación de reglas: estratagemas de BA, mejoras de BA, líderes separados.
 
 ## [0.3.0] — 2026-07-24
 

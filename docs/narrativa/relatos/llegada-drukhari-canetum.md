@@ -21,7 +21,7 @@ Luego descendieron.
 
 No hacia la plataforma. Hacia el océano.
 
-El agua se abrió ante ellos como si recogniera su autoridad. Las criaturas bioluminiscentes que habitaban las profundidades se dispersaron, dejando un pasillo de oscuridad que se extendía hasta el lecho marino. Los Drukhari descendieron por ese pasillo sin hacer ruido, sin dejar estela, sin alterar una sola burbuja.
+El agua se abrió ante ellos como si reconociera su autoridad. Las criaturas bioluminiscentes que habitaban las profundidades se dispersaron, dejando un pasillo de oscuridad que se extendía hasta el lecho marino. Los Drukhari descendieron por ese pasillo sin hacer ruido, sin dejar estela, sin alterar una sola burbuja.
 
 Permanecieron bajo el agua durante exactamente una hora. Luego regresaron a la superficie, entraron de nuevo en la brecha y desaparecieron. La grieta se cerró sin dejar rastro en el agua, sin dejar explicación en los sensores, sin dejar nada excepto el silencio y la certeza de que algo había cambiado en Canetum.
 

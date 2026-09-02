@@ -30,7 +30,7 @@ La Canonesa del Convento Sanctorum encomendó la misión a una Palatina de la Or
 
 Los Drukhari no tienen un mundo de origen. Su civilización habita en Comorragh, una ciudadela oculta en la Telaraña, la dimensión subterránea que conecta los rincones más remotos de la galaxia. Desde allí, los Cabales Oscuros lanzan incursiones para capturar almas y esclavos que mantienen a salvo su existencia de la destrucción que consumió a los Aeldari ancestrales.
 
-No navegan el vacío como otros. La Telaraña es su highway, sus rutas, su hogar. A través de portales dimensionales pueden aparecer en cualquier punto del espacio sin previo aviso, sin naves, sin señales de aproximación.
+No navegan el vacío como otros. La Telaraña es su autopista, sus rutas, su hogar. A través de portales dimensionales pueden aparecer en cualquier punto del espacio sin previo aviso, sin naves, sin señales de aproximación.
 
 ### Por qué vienen a Caleyat
 

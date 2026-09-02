@@ -18,7 +18,7 @@ theme:
     - search.suggest
 
 extra:
-  version: "v0.10.0"
+  version: "v0.11.0"
 
 extra_css:
   - style/extra.css
@@ -44,6 +44,7 @@ nav:
       - Cronología: narrativa/cronologia.md
   - Organización de la campaña:
       - La Campaña: campana/campaña.md
+      - Misiones: campana/misiones.md
       - Emparejamientos: campana/emparejamientos.md
       - Puntuación: campana/puntuacion.md
       - Organización: campana/organizacion.md
