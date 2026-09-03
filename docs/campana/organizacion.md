@@ -29,6 +29,10 @@ El Warmaster establecerá un canal de comunicación (grupo de mensajería, foro,
 - Compartir contenido narrativo.
 - Resolver dudas.
 
+## Listas de los jugadores
+
+Cada jugador debe entregar su lista al Warmaster antes del inicio de cada etapa. El Warmaster las revisa para verificar que cumplen las restricciones de puntos y el espíritu narrativo. Las listas aprobadas se publican en la sección de [Listas](listas/fase1.md).
+
 ## Resolución de disputas
 
 El Warmaster es la autoridad final en caso de disputas sobre las reglas. Sus decisiones son inapelables.

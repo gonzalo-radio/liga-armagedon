@@ -13,6 +13,7 @@ Bienvenido a la **Liga de Warhammer 40,000**, un reglamento para campañas narra
 | Organización | [Emparejamientos](campana/emparejamientos.md) | Sistema de emparejamiento semanal |
 | Organización | [Puntuación](campana/puntuacion.md) | Sistema de puntuación y desempates |
 | Organización | [Organización](campana/organizacion.md) | Guía para el Warmaster |
+| Organización | [Listas Fase I](campana/listas/fase1.md) | Listas de ejército por facción (500 pts) |
 | Organización | [Anexos](campana/anexos.md) | Hoja de campaña del jugador |
 | Reglas | [Dominatus](reglas/dominatus.md) | Adaptación del sistema Dominatus |
 | Reglas | [Construcción de listas](reglas/construccion-listas.md) | Reglas para crear y evolucionar ejércitos |

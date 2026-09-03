@@ -11,6 +11,7 @@ Las fechas usan el formato `semana.año.M42` (p. ej. `43.071.M42`): la semana id
 | 42.071.M42 | Fase I — Vanguardia | Aparición de una brecha de la Telaraña en Canetum | [Leer la narración](relatos/llegada-drukhari-canetum.md) |
 | 43.071.M42 | Fase I — Vanguardia | Llegada de la Cruzada de los Hijos Penitentes al sistema | [Leer la narración](relatos/llegada-cruzada-hijos-penitentes.md) |
 | 45.071.M42 | Fase I — Vanguardia | Llegada de la Orden de Nuestra Señora Mártir al sistema | [Leer la narración](relatos/llegada-orden-nuestra-senora-martir.md) |
+| 47.071.M42 | Fase I — Vanguardia | Llegada del Destacamento Marenostrum (Ultramarines) al sistema | [Leer la narración](relatos/llegada-destacamento-marenostrum.md) |
 | 50.071.M42 | Fase I — Vanguardia | Crisis en el Ascensor Orbital — imposibilidad de descender a la superficie | [Leer la narración](relatos/ascensor-orbital-crisis.md) |
 
 ## Cómo se añade un suceso

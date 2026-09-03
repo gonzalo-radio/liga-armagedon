@@ -38,6 +38,24 @@ El océano de Canetum contiene algo que los Drukhari desean. No se sabe qué: qu
 
 Su llegada no ha sido declarada. No han enviado mensajeros. No han mostrado intención de combate. Solo han aparecido, han descendido y han desaparecido, dejando la certeza de que algo en las profundidades de Canetum ha sido alterado.
 
+## Destacamento Marenostrum — Ultramarines
+
+### Origen
+
+Severus Agemman, Capitán de la Primera Compañía de los Ultramarines y Regente de Ultramar, había liderado un Filo Solar durante la desesperada campaña para proteger Terra del avance de la Flota Enjambre Leviatán en el transcurso de la Cuarta Guerra Tiránida. Sus victorias habían sido numerosas y su reputación, forjada en incontables campos de batalla, resonaba en todo el Imperio.
+
+Sin embargo, el destino tenía reservada para él una empresa aún mayor. El mismísimo Roboute Guilliman, Regente Imperial y Señor de Ultramar, lo había nombrado Tetrarca de Konor, encomendándole la defensa, administración y expansión de todo el sector oriental del reino de Ultramar. Se trataba de un honor extraordinario, una responsabilidad que recaía únicamente sobre los más grandes hijos de Macragge.
+
+Sin perder tiempo, Agemman delegó el mando de la flota y puso rumbo a Ultramar para asumir sus nuevas obligaciones. Pero durante la travesía por el vacío, una transmisión astropática alteró el curso de sus planes, un mensaje urgente enviado por nada menos que Varro Tigurius, Bibliotecario Jefe de los Ultramarines y uno de los consejeros más cercanos de Marneus Calgar.
+
+Tigurius solicitaba que Agemman desviara su ruta para investigar un sistema estelar recientemente redescubierto: el sistema Caleyat. Los detalles eran escasos, pero el tono del mensaje dejaba claro que tras aquella solicitud se ocultaba algo de gran importancia.
+
+### Por qué vienen a Caleyat
+
+El inquebrantable sentido del deber del Capitán se vio entonces puesto a prueba. Por un lado, estaba la orden directa de su Primarca y la obligación de presentarse en Konor para asumir su puesto como Tetrarca. Por otro, la lealtad forjada durante siglos de campañas compartidas junto a Tigurius, un hermano de batalla cuya sabiduría había salvado incontables mundos del Imperio.
+
+Durante un instante, dos deberes igualmente sagrados chocaron en su espíritu. Finalmente, Severus Agemman tomó una decisión. Mientras la mayor parte de su contingente continuaba su viaje hacia Konor, un reducido pero formidable destacamento de Exterminadores veteranos de la Primera Compañía se desviaría hacia el misterioso sistema. Agemman los lideraría personalmente.
+
 ## Facciones pendientes
 
 Las entradas del resto de facciones participantes se añadirán aquí a medida que sus jugadores las definan con el Warmaster.
