@@ -1,6 +1,15 @@
 
 # Release Notes
 
+## [0.11.1] — 2026-09-03
+
+### Añadido
+
+- **Facción Ultramarines — Destacamento Marenostrum**: nueva facción jugable con origen en Severus Agemman y llegada al sistema Caleyat motivada por una transmisión de Varro Tigurius.
+- **Narración de llegada de los Ultramarines**: los Exterminadores de la Primera Compañía llegan al sistema (semana 47.071.M42).
+- **Sección de Listas**: nueva página `campana/listas/fase1.md` con listas de ejército por facción para la Fase I (500 pts).
+- **Lista Ultramarines (500 pts)**: 1× Terminator Assault Squad + 2× Terminator Squad.
+
 ## [0.11.0] — 2026-09-01
 
 ### Añadido

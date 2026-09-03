@@ -6,28 +6,26 @@ Cada jugador entrega su lista al Warmaster antes del inicio de la fase. Las list
 
 ## Destacamento Marenostrum — Ultramarines
 
-**Jugador:** Óscar Pera
-
 ### Terminator Assault Squad (180 puntos)
 
-| Unidad | Equipamiento | Pts |
-|---|---|---|
-| Assault Terminator Sergeant | Thunder hammer, Storm shield | — |
-| 4× Assault Terminator | Thunder hammer, Storm shield | — |
+| Unidad | Equipamiento |
+|---|---|
+| Assault Terminator Sergeant | Thunder hammer, Storm shield |
+| 4× Assault Terminator | Thunder hammer, Storm shield |
 
 ### Terminator Squad (160 puntos)
 
-| Unidad | Equipamiento | Pts |
-|---|---|---|
-| Terminator Sergeant | Power fist, Storm bolter | — |
-| 4× Terminator | Power fist, Storm bolter | — |
+| Unidad | Equipamiento |
+|---|---|
+| Terminator Sergeant | Power fist, Storm bolter |
+| 4× Terminator | Power fist, Storm bolter |
 
 ### Terminator Squad (160 puntos)
 
-| Unidad | Equipamiento | Pts |
-|---|---|---|
-| Terminator Sergeant | Power fist, Storm bolter | — |
-| 4× Terminator | Power fist, Storm bolter | — |
+| Unidad | Equipamiento |
+|---|---|
+| Terminator Sergeant | Power fist, Storm bolter |
+| 4× Terminator | Power fist, Storm bolter |
 
 ---
 

@@ -19,7 +19,7 @@ theme:
     - search.suggest
 
 extra:
-  version: "v0.10.0 — Warmaster"
+  version: "v0.11.1 — Warmaster"
 
 extra_css:
   - style/extra.css
@@ -52,6 +52,7 @@ nav:
       - Emparejamientos: docs/campana/emparejamientos.md
       - Puntuación: docs/campana/puntuacion.md
       - Organización: docs/campana/organizacion.md
+      - Listas Fase I: docs/campana/listas/fase1.md
       - Anexos: docs/campana/anexos.md
   - Reglas:
       - Dominatus: docs/reglas/dominatus.md
