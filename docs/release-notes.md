@@ -7,6 +7,8 @@
 
 - **Facción Ultramarines — Destacamento Marenostrum**: nueva facción jugable con origen en Severus Agemman y llegada al sistema Caleyat motivada por una transmisión de Varro Tigurius.
 - **Narración de llegada de los Ultramarines**: los Exterminadores de la Primera Compañía llegan al sistema (semana 47.071.M42).
+- **Facción Ángeles Oscuros — La Sombra de Thane**: nueva facción jugable con origen en Gideon Thane y llegada al sistema Caleyat motivada por una transmisión reservada del nivel Bermellón.
+- **Narración de llegada de La Sombra de Thane**: una fuerza de la Quinta Compañía llega al sistema (semana 48.071.M42).
 - **Sección de Listas**: nueva página `campana/listas/fase1.md` con listas de ejército por facción para la Fase I (500 pts).
 - **Lista Ultramarines (500 pts)**: 1× Terminator Assault Squad + 2× Terminator Squad.
 
