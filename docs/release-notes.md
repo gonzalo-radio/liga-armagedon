@@ -6,7 +6,7 @@
 ### Añadido
 
 - **Facción Ligas de los Votann — La Expedición de Dâromir**: nueva facción jugable con origen en la Confederación de Dûrholm y llegada al sistema Caleyat motivada por una deuda ancestral registrada en el Núcleo Ancestral.
-- **Narración de llegada de La Expedición de Dâromir**: Einhyr Champion y Hearthguard llegan al sistema (semana 43.071.M42).
+- **Narración de llegada de La Expedición de Dâromir**: Campeón Einhyr y Guardamoradas Einhyr llegan al sistema (semana 43.071.M42).
 - **Facción Ultramarines — Destacamento Marenostrum**: nueva facción jugable con origen en Severus Agemman y llegada al sistema Caleyat motivada por una transmisión de Varro Tigurius.
 - **Narración de llegada de los Ultramarines**: los Exterminadores de la Primera Compañía llegan al sistema (semana 47.071.M42).
 - **Facción Ángeles Oscuros — La Sombra de Thane**: nueva facción jugable con origen en Gideon Thane y llegada al sistema Caleyat motivada por una transmisión reservada del nivel Bermellón.

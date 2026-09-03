@@ -13,17 +13,17 @@ Cada facción se describe con dos apartados:
 
 ### Origen
 
-La Confederación de Dûrholm es un Kindred mercantil de las Ligas de los Votann, dedicado durante generaciones a la exploración de rutas comerciales y la exploración de sistemas olvidados en los confines del Segmentum Obscurus. Sus naves han recorrido incontables rutas llevando mercancías, mapas y tecnología entre los mundos que habitan los Kin, y sus archivos contienen el registro de cada trato cerrado, cada ruta cartografiada y cada deuda pendiente.
+La Confederación de Dûrholm es una parentela mercantil de las Ligas de los Votann, dedicado durante generaciones a la exploración de rutas comerciales y la exploración de sistemas olvidados en los confines del Segmentum Obscurus. Sus naves han recorrido incontables rutas llevando mercancías, mapas y tecnología entre los mundos que habitan los Kin, y sus archivos contienen el registro de cada trato cerrado, cada ruta cartografiada y cada deuda pendiente.
 
-Entre esos archivos, una línea llevaba siglos sin cuadrar. Thordin, un cartógrafo del Kindred, cerró un trato hace generaciones con un mercader humano en un sistema que las cartas imperiales habían borrado: cartas de navegación seguras a cambio de mapas de las rutas Votann. El humano cumplió, pero Thordin descubrió que los mapas recibidos estaban incompletos. Intentó resolverlo, pero la nave del mercader partió antes de que pudiera reclamar lo que le debían. La deuda quedó registrada en el Núcleo Ancestral de Dûrholm como pendiente.
+Entre esos archivos, una línea llevaba siglos sin cuadrar. Thordin, un cartógrafo de la parentela, cerró un trato hace generaciones con un mercader humano en un sistema que las cartas imperiales habían borrado: cartas de navegación seguras a cambio de mapas de las rutas Votann. El humano cumplió, pero Thordin descubrió que los mapas recibidos estaban incompletos. Intentó resolverlo, pero la nave del mercader partió antes de que pudiera reclamar lo que le debían. La deuda quedó registrada en el Núcleo Ancestral de Dûrholm como pendiente.
 
 Para los miembros de la Confederación de Dûrholm, una deuda registrada en el Núcleo no se borra con el tiempo. Se hereda con cada nuevo Kin que surge de la plantilla, no como una carga emocional, sino como una obligación práctica. La ecuación de Thordin llevaba siglos sin cuadrar.
 
 ### Por qué vienen a Caleyat
 
-Cuando Dâromir — un Einhyr Champion del mismo Kindred — revisó los registros ancestrales del Núcleo, localizó la posición final del mercader: coordenadas que señalaban Caleyat. No era un sistema conocido ni frecuentado. Las cartas imperiales lo habían borrado, y los registros Votann lo mencionaban solo como un punto de paso olvidado en una ruta comercial que ya no existía.
+Cuando Dâromir — un Campeón Einhyr de la misma parentela — revisó los registros ancestrales del Núcleo, localizó la posición final del mercader: coordenadas que señalaban Caleyat. No era un sistema conocido ni frecuentado. Las cartas imperiales lo habían borrado, y los registros Votann lo mencionaban solo como un punto de paso olvidado en una ruta comercial que ya no existía.
 
-Dâromir no necesitó consultas adicionales. La naturaleza de la misión era evidente para quienes conocían los registros del Núcleo: viajar a Caleyat, encontrar al mercader o los restos de su nave, recuperar la información pendiente y volver a casa. El Concilio de Dûrholm autorizó la expedición y Dâromir partió con su guardia de Hearthguard, los guerreros más equipados y veteranos del Kindred, cada uno con su armadura exo calibrada en las forjas de su Hold.
+Dâromir no necesitó consultas adicionales. La naturaleza de la misión era evidente para quienes conocían los registros del Núcleo: viajar a Caleyat, encontrar al mercader o los restos de su nave, recuperar la información pendiente y volver a casa. El Concilio de Dûrholm autorizó la expedición y Dâromir partió con su guardia de Guardamoradas Einhyr, los guerreros más equipados y veteranos de la parentela, cada uno con su armadura exo calibrada en las forjas de su Fortaleza.
 
 No venían a conquistar ni a establecer contactos. Venían a cerrar un asunto administrativo de hace siglos, y a demostrar que los Kin no olvidan sus deudas — ni las propias ni las de sus ancestros.
 
