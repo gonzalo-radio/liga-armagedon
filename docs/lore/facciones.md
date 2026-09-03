@@ -9,13 +9,23 @@ Cada facción se describe con dos apartados:
 - **Origen** — quiénes son y de dónde vienen.
 - **Por qué vienen a Caleyat** — el motivo que los trae al sistema.
 
-## Cruzada de los Hijos Penitentes — Templarios Negros
+## La Expedición de Dâromir — Ligas de los Votann
+
+### Origen
+
+La Confederación de Dûrholm es un Kindred mercantil de las Ligas de los Votann, dedicado durante generaciones a la exploración de rutas comerciales y la exploración de sistemas olvidados en los confines del Segmentum Obscurus. Sus naves han recorrido incontables rutas llevando mercancías, mapas y tecnología entre los mundos que habitan los Kin, y sus archivos contienen el registro de cada trato cerrado, cada ruta cartografiada y cada deuda pendiente.
+
+Entre esos archivos, una línea llevaba siglos sin cuadrar. Thordin, un cartógrafo del Kindred, cerró un trato hace generaciones con un mercader humano en un sistema que las cartas imperiales habían borrado: cartas de navegación seguras a cambio de mapas de las rutas Votann. El humano cumplió, pero Thordin descubrió que los mapas recibidos estaban incompletos. Intentó resolverlo, pero la nave del mercader partió antes de que pudiera reclamar lo que le debían. La deuda quedó registrada en el Núcleo Ancestral de Dûrholm como pendiente.
+
+Para los miembros de la Confederación de Dûrholm, una deuda registrada en el Núcleo no se borra con el tiempo. Se hereda con cada nuevo Kin que surge de la plantilla, no como una carga emocional, sino como una obligación práctica. La ecuación de Thordin llevaba siglos sin cuadrar.
 
 ### Por qué vienen a Caleyat
 
-La Cruzada se hallaba en pleno combate contra una amenaza xenos en los confines de otro sistema cuando sus naves dieron con un pecio imperial a la deriva flotando entre los restos de la refriega. La nave era antigua, sin tripulación y con los registros parcialmente intactos. Entre ellos había informes que los capellanes de la flota examinaron en el silencio de la cámara de reliquias, y que describían el sistema de Caleyat sumido en el caos: comunicaciones perdidas, mundos en silencio y un colapso que —según los autores de aquellos informes— se debía a una amenaza de origen desconocido, una fuerza que no eran capaces de identificar ni clasificar.
+Cuando Dâromir — un Einhyr Champion del mismo Kindred — revisó los registros ancestrales del Núcleo, localizó la posición final del mercader: coordenadas que señalaban Caleyat. No era un sistema conocido ni frecuentado. Las cartas imperiales lo habían borrado, y los registros Votann lo mencionaban solo como un punto de paso olvidado en una ruta comercial que ya no existía.
 
-Deseosa de comprender qué podía haber derribado a todo un sistema, la Cruzada consultó los registros imperiales a los que tenía acceso. La respuesta fue un vacío: no existía información sobre Caleyat desde hacía mucho tiempo, y de lo poco que quedaba, casi todo había sido censurado — incluso la ubicación del sistema en las cartas del Imperio. Pero en los cogitadores del pecio, las coordenadas de Caleyat estaban intactas. La Cruzada no podía apartar la flota de la guerra que tenía entre manos, así que destacó una única nave hacia el sistema: una avanzadilla encargada de realizar una primera exploración en solitario mientras el grueso de la flota continuaba la lucha en el sistema donde apareció el pecio.
+Dâromir no necesitó consultas adicionales. La naturaleza de la misión era evidente para quienes conocían los registros del Núcleo: viajar a Caleyat, encontrar al mercader o los restos de su nave, recuperar la información pendiente y volver a casa. El Concilio de Dûrholm autorizó la expedición y Dâromir partió con su guardia de Hearthguard, los guerreros más equipados y veteranos del Kindred, cada uno con su armadura exo calibrada en las forjas de su Hold.
+
+No venían a conquistar ni a establecer contactos. Venían a cerrar un asunto administrativo de hace siglos, y a demostrar que los Kin no olvidan sus deudas — ni las propias ni las de sus ancestros.
 
 ## Orden de Nuestra Señora Mártir — Adepta Sororitas
 
