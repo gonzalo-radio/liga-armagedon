@@ -1,6 +1,6 @@
 # Tensión entre La Sombra de Thane y La Expedición de Dâromir
 
-| Fecha | 4.42.071.M42 |
+| Fecha | 3.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Tensión entre La Sombra de Thane y La Expedición de Dâromir |
