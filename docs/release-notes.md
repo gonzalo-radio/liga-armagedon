@@ -12,6 +12,7 @@
 - **Facción Ángeles Oscuros — La Sombra de Thane**: nueva facción jugable con origen en Gideon Thane y llegada al sistema Caleyat motivada por una transmisión reservada del nivel Bermellón.
 - **Narración de llegada de La Sombra de Thane**: una fuerza de la Quinta Compañía llega al sistema (semana 0.42.071.M42).
 - **Narración de tensión**: La Sombra de Thane y La Expedición de Dâromir se detectan mutuamente en órbita (semana 3.42.071.M42).
+- **Narración de enfrentamiento**: Primer enfrentamiento entre La Sombra de Thane y La Expedición de Dâromir en los corredores del Ascensor Orbital (semana 5.42.071.M42).
 - **Sección de Listas**: nueva página `campana/listas/fase1.md` con listas de ejército por facción para la Fase I (500 pts).
 - **Lista Ultramarines (500 pts)**: 1× Terminator Assault Squad + 2× Terminator Squad.
 
