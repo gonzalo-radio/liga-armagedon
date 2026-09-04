@@ -23,7 +23,7 @@ Alguien estaba al otro lado.
 
 Thane levantó el puño cerrado. Sus guerreros se detuvieron al instante, armas en posición de combate, sin emitir un solo sonido. El silencio del corredor se hizo más denso, más pesado, como si el acero de las paredes hubiera absorbido el aire.
 
-Dâromir también se detuvo. Los Guardamoradas levantaron sus armas, apuntando a la compuerta abierta. El Campeón Einhyr leyó la firma energética en sus sensores: armadura pesada,配置 de combate cercano, cinco — no, seis — firmas que no coincidían con ningún perfil registrado en los archivos del Núcleo.
+Dâromir también se detuvo. Los Guardamoradas levantaron sus armas, apuntando a la compuerta abierta. El Campeón Einhyr leyó la firma energética en sus sensores: armadura pesada,configuración de combate cercano, cinco — no, seis — firmas que no coincidían con ningún perfil registrado en los archivos del Núcleo.
 
 No eran humanos. Eran algo peor.
 
