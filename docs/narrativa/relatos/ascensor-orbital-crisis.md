@@ -1,6 +1,6 @@
 # Crisis en el Ascensor Orbital
 
-| Fecha | 4.42.071.M42 |
+| Fecha | 3.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Imposibilidad de descender a la superficie — el Ascensor Orbital se convierte en la única vía de acceso |

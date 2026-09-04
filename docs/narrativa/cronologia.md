@@ -13,8 +13,8 @@ Las fechas usan el formato `d.semana.año.M42` (p. ej. `0.42.071.M42`): el prime
 | 0.42.071.M42 | Fase I — Vanguardia | Llegada de La Sombra de Thane (Ángeles Oscuros) al sistema | [Leer la narración](relatos/llegada-angeles-oscuros.md) |
 | 1.42.071.M42 | Fase I — Vanguardia | Llegada de la Orden de Nuestra Señora Mártir al sistema | [Leer la narración](relatos/llegada-orden-nuestra-senora-martir.md) |
 | 2.42.071.M42 | Fase I — Vanguardia | Llegada del Destacamento Marenostrum (Ultramarines) al sistema | [Leer la narración](relatos/llegada-destacamento-marenostrum.md) |
-| 3.42.071.M42 | Fase I — Vanguardia | Tensión entre La Sombra de Thane y La Expedición de Dâromir | [Leer la narración](relatos/tension-thane-daromir.md) |
-| 4.42.071.M42 | Fase I — Vanguardia | Crisis en el Ascensor Orbital — imposibilidad de descender a la superficie | [Leer la narración](relatos/ascensor-orbital-crisis.md) |
+| 3.42.071.M42 | Fase I — Vanguardia | Crisis en el Ascensor Orbital — imposibilidad de descender a la superficie | [Leer la narración](relatos/ascensor-orbital-crisis.md) |
+| 4.42.071.M42 | Fase I — Vanguardia | Tensión entre La Sombra de Thane y La Expedición de Dâromir | [Leer la narración](relatos/tension-thane-daromir.md) |
 
 ## Cómo se añade un suceso
 
