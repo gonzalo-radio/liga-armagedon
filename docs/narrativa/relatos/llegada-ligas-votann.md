@@ -1,6 +1,6 @@
 # Llegada de La Expedición de Dâromir
 
-| Fecha | 43.071.M42 |
+| Fecha | 0.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Llegada al sistema de La Expedición de Dâromir (Ligas de los Votann) |

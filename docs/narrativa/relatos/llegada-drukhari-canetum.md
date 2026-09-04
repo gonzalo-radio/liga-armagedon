@@ -1,6 +1,6 @@
 # Llegada de los Drukhari a Canetum
 
-| Fecha | 42.071.M42 |
+| Fecha | 0.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Aparición de una brecha de la Telaraña en la superficie de Canetum |

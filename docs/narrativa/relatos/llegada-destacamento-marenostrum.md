@@ -1,6 +1,6 @@
 # Llegada del Destacamento Marenostrum
 
-| Fecha | 47.071.M42 |
+| Fecha | 2.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Llegada al sistema de un destacamento de Ultramarines |

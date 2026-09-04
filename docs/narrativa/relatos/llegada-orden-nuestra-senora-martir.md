@@ -1,6 +1,6 @@
 # Llegada de la Orden de Nuestra Señora Mártir
 
-| Fecha | 45.071.M42 |
+| Fecha | 1.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Llegada de la fuerza sororitas al sistema de Caleyat |

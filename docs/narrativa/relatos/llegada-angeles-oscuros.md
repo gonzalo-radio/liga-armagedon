@@ -1,6 +1,6 @@
 # Llegada de La Sombra de Thane
 
-| Fecha | 48.071.M42 |
+| Fecha | 0.42.071.M42 |
 |---|---|
 | Fase | Fase I — Vanguardia |
 | Suceso | Llegada al sistema de La Sombra de Thane |
