@@ -15,6 +15,8 @@
 - **Narración de enfrentamiento**: Primer enfrentamiento entre La Sombra de Thane y La Expedición de Dâromir en los corredores del Ascensor Orbital (semana 5.42.071.M42).
 - **Sección de Listas**: nueva página `campana/listas/fase1.md` con listas de ejército por facción para la Fase I (500 pts).
 - **Lista Ultramarines (500 pts)**: 1× Terminator Assault Squad + 2× Terminator Squad.
+- **Página de Resultados**: nueva página `campana/resultados.md` con registro de resultados de partidas.
+- **Primera partida registrada**: Victoria de La Sombra de Thane sobre La Expedición de Dâromir en el Ascensor Orbital (60-45).
 
 ## [0.11.0] — 2026-09-01
 

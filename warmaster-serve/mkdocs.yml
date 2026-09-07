@@ -53,6 +53,7 @@ nav:
       - Puntuación: docs/campana/puntuacion.md
       - Organización: docs/campana/organizacion.md
       - Listas Fase I: docs/campana/listas/fase1.md
+      - Resultados: docs/campana/resultados.md
       - Anexos: docs/campana/anexos.md
   - Reglas:
       - Dominatus: docs/reglas/dominatus.md
