@@ -14,6 +14,15 @@ La puntuación combina resultados de partida y objetivos narrativos.
 | Derrota marginal | 1 | Battle Skill |
 | Derrota total | 0 | Battle Skill |
 
+### Criterio de victoria
+
+El tipo de victoria se determina por el margen de puntos entre ambos jugadores:
+
+- **Victoria total**: diferencia de **15 puntos o más** (ej. 60-45)
+- **Victoria marginal**: diferencia **inferior a 15 puntos** (ej. 45-40)
+
+El oponente recibe automáticamente el resultado inverso (derrota total o derrota marginal, respectivamente).
+
 ### Puntos de participación
 
 Cada jugador recibe **1 punto** por participar en una ronda, independientemente del resultado.
