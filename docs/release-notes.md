@@ -83,7 +83,7 @@
 
 - Localización de Fase I: Ascensor Orbital. Reglas adaptadas de Boarding Actions para Dominatus.
 - Descripción narrativa del Ascensor Orbital en el lore de Caleyat.
-- Tres misiones simétricas de Boarding Actions para la Fase I: Access Junction Primus, Power Struggle, Control Centre.
+- Tres misiones de Boarding Actions para la Fase I: Access Junction Primus (simétrica), Power the Generators (asimétrica), Control Centre (simétrica).
 - Tabla de localizaciones en el documento de campaña (Fases I, II, III).
 
 ### Changed

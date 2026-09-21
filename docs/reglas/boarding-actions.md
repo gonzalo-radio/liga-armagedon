@@ -42,9 +42,9 @@ Los PERSONAJES con la habilidad Líder no pueden unirse a unidades cuerpo de gua
 
 Las misiones disponibles para la fase son:
 
-1. **Access Junction Primus** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Access-Junction-Primus) — Primer contacto en los corredores de acceso. Ambas fuerzas convergen desde extremos opuestos del eje central del ascensor.
-2. **Power Struggle** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Power-Struggle) — Disputa por los nodos de energía que alimentan los motores del ascensor.
-3. **Control Centre** [:material-open-in-new:](https://wahapedia.ru/wh40k10ed/the-rules/boarding-action-rules/#Control-Centre) — Asalto a la sala de control en la cima de la estructura.
+1. **Access Junction Primus** [:material-open-in-new:](https://wahapedia.ru/wh40k11ed/the-rules/boarding-action-rules/#Access-Junction-Primus) — Primer contacto en los corredores de acceso. Ambas fuerzas convergen desde extremos opuestos del eje central del ascensor.
+2. **Power the Generators** [:material-open-in-new:](https://wahapedia.ru/wh40k11ed/the-rules/boarding-action-rules/#Power-the-Generators) — *Asimétrica.* Los atacantes intentan canalizar energía hacia data-fanes para acceder a inteligencia estratégica. El defensor debe proteger los generadores.
+3. **Control Centre** [:material-open-in-new:](https://wahapedia.ru/wh40k11ed/the-rules/boarding-action-rules/#Control-Centre) — Asalto a la sala de control en la cima de la estructura.
 
 Cada misión detalla su propio despliegue, objetivos y condiciones de victoria según las reglas de Boarding Actions.
 
