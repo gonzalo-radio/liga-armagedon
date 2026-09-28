@@ -18,6 +18,7 @@ Las fechas usan el formato `d.semana.año.M42` (p. ej. `0.42.071.M42`): el prime
 | 5.42.071.M42 | Fase I — Vanguardia | Primer enfrentamiento entre La Sombra de Thane y La Expedición de Dâromir en el Ascensor Orbital | [Leer la narración](relatos/acceso-ascensor-thane-daromir.md) |
 | 5.42.071.M42 | Fase I — Vanguardia | Victoria de La Sombra de Thane en el Ascensor Orbital (60-45) | [Leer la narración](relatos/victoria-thane-ascensor.md) |
 | 5.42.071.M42 | Fase I — Vanguardia | Victoria de Nuestra Señora Mártir sobre Cabal Oscuro (45-40) | [Leer la narración](relatos/victoria-nuestra-senora-martir-cabal-oscuro.md) |
+| 5.42.071.M42 | Fase I — Vanguardia | Victoria del Destacamento Marenostrum sobre La Expedición de Dâromir (50-45) | — |
 
 ## Cómo se añade un suceso
 

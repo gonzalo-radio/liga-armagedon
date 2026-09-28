@@ -8,3 +8,4 @@ Registro de resultados de las partidas jugadas en la campaña.
 |---|---|---|---|---|
 | 5.42.071.M42 | Ángeles Oscuros — La Sombra de Thane | Ligas de los Votann — La Expedición de Dâromir | Victoria total (60-45) | 3 pts |
 | 5.42.071.M42 | Orden de Nuestra Señora Mártir | Drukhari — Cabal Oscuro | Victoria marginal (45-40) | 2 pts |
+| 5.42.071.M42 | Destacamento Marenostrum (Ultramarines) | Ligas de los Votann — La Expedición de Dâromir | Victoria marginal (50-45) | 2 pts |
